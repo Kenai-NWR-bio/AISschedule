@@ -1,0 +1,73 @@
+---
+title: "Kenai Peninsula Aquatic Invasive Species Survey Schedule"
+author: "Matt Bowser"
+format:
+  gfm: 
+    keep-yaml: FALSE
+bibliography: "data/raw_data/bibliographic_data/bibliography.bib"
+link-citations: true
+---
+
+```{r setup, echo=FALSE}
+sch <- read.csv("data/raw_data/planning_data/survey_schedule.csv",
+ stringsAsFactors = FALSE)
+sch <- sch[order(sch$year, 
+ sch$waterbody_name,
+ sch$target_species),]
+coop <- read.csv("data/raw_data/planning_data/cooperators.csv",
+ stringsAsFactors = FALSE)
+coop <- coop[order(coop$name,
+ coop$acronym),]
+```
+
+
+## Purpose
+
+The purpose of this repository is to facilitate collaboration among multiple partners in detecting and responding to infestation of invasive aquatic species on the Kenai Peninsula, Alaska.
+
+## Cooperators
+
+```{r cooptab, echo=FALSE}
+#| label: tbl-coop
+#| tbl-cap: "Kenai Peninsula aquatic invasive species survey participants."
+#| tbl-cap-location: top
+
+
+col.names <- c("Name",
+ "Acronym",
+ "URL")
+knitr::kable(coop, 
+  longtable = TRUE, 
+  booktabs = TRUE,
+  row.names = FALSE,
+  col.names = col.names
+)
+```
+
+## Methods
+
+Waterbody names and locations from were downloaded from USGS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3, 2023. We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022].
+
+## Schedule
+
+```{r scheduletab, echo=FALSE}
+#| label: tbl-schedule
+#| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies."
+#| tbl-cap-location: top
+
+
+col.names <- c("Year", 
+ "Waterbody Name",
+ "Latitude",
+ "Longitude",
+ "Target Species",
+ "Surveyors")
+knitr::kable(sch, 
+  longtable = TRUE, 
+  booktabs = TRUE,
+  row.names = FALSE,
+  col.names = col.names
+)
+```
+
+## References
