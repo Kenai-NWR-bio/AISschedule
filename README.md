@@ -5,7 +5,11 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 
 The purpose of this repository is to facilitate collaboration among
 multiple partners in detecting and responding to infestation of invasive
-aquatic species on the Kenai Peninsula, Alaska.
+aquatic species on the Kenai Peninsula, Alaska in partial fulfillment of
+overarching plans to address aquatic invasive species on the Kenai
+Peninsula ([Elodea Committee of the Kenai Peninsula Cooperative Invasive
+Species Management Area 2021](#ref-ElodeaCommittee2021); [Dunker et al.
+2022](#ref-Dunkeretal2022)).
 
 ## Cooperators
 
@@ -72,6 +76,26 @@ waterbodies.
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Dunkeretal2022" class="csl-entry">
+
+Dunker, K. J., P. Bradley, C. Brandt, T. Cubbage, T. Davis, J. Erickson,
+J. Jablonski, et al. 2022. “Technical Guidance and Management Plan for
+Invasive Northern Pike in Southcentral Alaska: 2022-2030.” Anchorage,
+Alaska: Alaska Invasive Species Partnership.
+<https://alaskainvasives.org/wp-content/uploads/2022/06/Technical-Guidance-and-Management-Plan-for-Invasive-Northern-Pike-in-Southcentral-Alaska.pdf>.
+
+</div>
+
+<div id="ref-ElodeaCommittee2021" class="csl-entry">
+
+Elodea Committee of the Kenai Peninsula Cooperative Invasive Species
+Management Area. 2021. “Integrated Pest Management Plan for Eradicating
+Elodea from the Kenai Peninsula.” Homer, Alaska: Kenai Peninsula
+Cooperative Weed Management Area.
+<https://kenaiinvasives.org/index.php?gf-download=2021%2F11%2FIntegrated-Pest-Management-Plan-for-Eradicating-Elodea_ver7_2021_wkng_draft.pdf&form-id=3&field-id=4&hash=a8deb42dd5cfc9ca4a44aa784ed9190d05015f83cc93641e2afb651cdac91a4d>.
+
+</div>
 
 <div id="ref-Massengilletal2022" class="csl-entry">
 
