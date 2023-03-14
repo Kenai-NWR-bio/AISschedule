@@ -1,6 +1,5 @@
 ---
 title: "Kenai Peninsula Aquatic Invasive Species Survey Schedule"
-author: "Matt Bowser"
 format:
   gfm: 
     keep-yaml: FALSE

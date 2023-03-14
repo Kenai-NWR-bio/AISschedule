@@ -1,6 +1,5 @@
 Kenai Peninsula Aquatic Invasive Species Survey Schedule
 ================
-Matt Bowser
 
 ## Purpose
 
@@ -15,6 +14,7 @@ aquatic species on the Kenai Peninsula, Alaska.
 | Name                                                                                    | Acronym    | URL                                                                 |
 |:----------------------------------------------------------------------------------------|:-----------|:--------------------------------------------------------------------|
 | Alaska Department of Fish and Game                                                      | ADFG       | https://www.adfg.alaska.gov/                                        |
+| Chugach National Forest                                                                 | CNF        | https://www.fs.usda.gov/chugach/                                    |
 | Cook Inlet Aquaculture Association                                                      | CIAA       | https://www.ciaanet.org/                                            |
 | Homer Soil and Water Conservation District                                              | HSWCD      | https://www.homerswcd.org/                                          |
 | Kenai National Wildlife Refuge                                                          | KNWR       | https://www.fws.gov/refuge/kenai                                    |
