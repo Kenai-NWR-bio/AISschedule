@@ -77,7 +77,7 @@ waterbodies.
 
 Massengill, Robert, Robert N. Begich, and Kristine Dunker. 2022.
 “Operational Plan: Kenai Peninsula Nonnative Fish Control, Monitoring,
-and Native Fish Restoration, 2022–2024.” Regional {Operational} {Plan}
+and Native Fish Restoration, 2022–2024.” Regional Operational Plan
 ROP.SF.2A.2022.28. Anchorage, Alaska: Alaska Department of Fish and
 Game, Division of Sport Fish.
 <http://www.adfg.alaska.gov/FedAidPDFs/ROP.SF.2A.2022.28.pdf>.
