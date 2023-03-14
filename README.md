@@ -1,6 +1,12 @@
 Kenai Peninsula Aquatic Invasive Species Survey Schedule
 ================
 
+- <a href="#purpose" id="toc-purpose">Purpose</a>
+- <a href="#cooperators" id="toc-cooperators">Cooperators</a>
+- <a href="#methods" id="toc-methods">Methods</a>
+- <a href="#schedule" id="toc-schedule">Schedule</a>
+- <a href="#references" id="toc-references">References</a>
+
 ## Purpose
 
 The purpose of this repository is to facilitate collaboration among

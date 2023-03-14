@@ -3,6 +3,7 @@ title: "Kenai Peninsula Aquatic Invasive Species Survey Schedule"
 format:
   gfm: 
     keep-yaml: FALSE
+    toc: TRUE
 bibliography: "data/raw_data/bibliographic_data/bibliography.bib"
 link-citations: true
 ---
