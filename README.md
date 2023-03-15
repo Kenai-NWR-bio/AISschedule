@@ -12,11 +12,11 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 ## Purpose
 
 The purpose of this repository is to facilitate collaboration among
-multiple partners in detecting and responding to infestation of invasive
-aquatic species on the Kenai Peninsula, Alaska in partial fulfillment of
-overarching plans to address aquatic invasive species on the Kenai
-Peninsula ([Elodea Committee of the Kenai Peninsula Cooperative Invasive
-Species Management Area 2021](#ref-ElodeaCommittee2021); [Dunker et al.
+multiple partners for early detection of aquatic invasive species on the
+Kenai Peninsula, Alaska in partial fulfillment of overarching plans to
+address aquatic invasive species on the Kenai Peninsula ([Elodea
+Committee of the Kenai Peninsula Cooperative Invasive Species Management
+Area 2021](#ref-ElodeaCommittee2021); [Dunker et al.
 2022](#ref-Dunkeretal2022)).
 
 ## Cooperators
