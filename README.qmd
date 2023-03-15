@@ -62,7 +62,7 @@ knitr::kable(coop,
 
 ## Schedule
 
-The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a csv file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
+The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a csv file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv). The schedule can also be downloaded as spatial data in kml and shp formats from [releases](releases).
 
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
