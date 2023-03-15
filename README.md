@@ -44,7 +44,8 @@ The planned sampling schedule is available in [Table 2](#tbl-schedule)
 below and it can be downloaded as a csv file in this repository at
 [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
 The schedule can also be downloaded as spatial data in kml and shp
-formats from [releases](releases).
+formats from the
+[releases](https://github.com/Kenai-NWR-bio/AISschedule/releases) page.
 
 <div id="tbl-schedule">
 
