@@ -1,9 +1,14 @@
 ﻿year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Beluga Lake,59.6433653,-151.5089295,Elodea,HSWCD
 2023,City of Kenai Pond,60.581228,-151.279693,fathead minnow,ADFG
+2023,Daniels Lake,60.7354768,-151.1881937,dreissenid mussels,ADFG
 2023,Derks Pond,60.525671,-150.970904,northern pike,ADFG
+2023,East Mackey Lake,60.530484,-150.994013,dreissenid mussels,ADFG
 2023,East Mackey Lake,60.530484,-150.994013,northern pike,ADFG
+2023,Sevena Lake,60.5513432,-150.9690571,dreissenid mussels,ADFG
+2023,Stormy Lake,60.7747665,-151.0577023,dreissenid mussels,ADFG
 2023,Warlfe Lake,60.290155,-151.365712,northern pike,ADFG
+2023,West Mackey Lake,60.528155,-151.009511,dreissenid mussels,ADFG
 2024,CC Lake,60.421778,-151.195102,northern pike,ADFG
 2024,Crystal Lake,60.424205,-151.190872,northern pike,ADFG
 2024,Fred's Lake,60.424147,-151.198286,northern pike,ADFG
@@ -17,8 +22,3 @@
 2024,Sandpiper Lake,61.0036107,-150.4078911,Elodea,KNWR
 2024,Vogel Lake,60.988725,-150.430818,northern pike,ADFG
 2024,Y Lake,60.391618,-151.170624,rainbow trout,ADFG
-2023,Daniels Lake,60.7354768,-151.1881937,dreissenid mussels,ADFG
-2023,East Mackey Lake,60.530484,-150.994013,dreissenid mussels,ADFG
-2023,Sevena Lake,60.5513432,-150.9690571,dreissenid mussels,ADFG
-2023,Stormy Lake,60.7747665,-151.0577023,dreissenid mussels,ADFG
-2023,West Mackey Lake,60.528155,-151.009511,dreissenid mussels,ADFG
