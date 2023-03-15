@@ -9,7 +9,7 @@ bibliography: "data/raw_data/bibliographic_data/bibliography.bib"
 link-citations: true
 ---
 
-```{r setup, echo=FALSE}
+```{r setup, echo=FALSE, error=FALSE, comment=FALSE, warning=FALSE, message=FALSE, results=FALSE}
 # Load libraries.
 library(sf)
 

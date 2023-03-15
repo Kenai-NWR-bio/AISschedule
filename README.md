@@ -9,21 +9,6 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 - <a href="#methods" id="toc-methods">Methods</a>
 - <a href="#references" id="toc-references">References</a>
 
-    Linking to GEOS 3.9.3, GDAL 3.5.2, PROJ 8.2.1; sf_use_s2() is TRUE
-
-    Deleting source `data/final_data/geodata/survey_schedule.kml' using driver `KML'
-    Writing layer `survey_schedule' to data source 
-      `data/final_data/geodata/survey_schedule.kml' using driver `KML'
-    Writing 23 features with 4 fields and geometry type Point.
-
-    Warning in abbreviate_shapefile_names(obj): Field names abbreviated for ESRI
-    Shapefile driver
-
-    Deleting source `data/final_data/geodata/survey_schedule.shp' using driver `ESRI Shapefile'
-    Writing layer `survey_schedule' to data source 
-      `data/final_data/geodata/survey_schedule.shp' using driver `ESRI Shapefile'
-    Writing 23 features with 4 fields and geometry type Point.
-
 ## Purpose
 
 The purpose of this repository is to facilitate collaboration among
