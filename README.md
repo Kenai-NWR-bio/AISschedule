@@ -4,6 +4,8 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 - <a href="#purpose" id="toc-purpose">Purpose</a>
 - <a href="#cooperators" id="toc-cooperators">Cooperators</a>
 - <a href="#schedule" id="toc-schedule">Schedule</a>
+- <a href="#planning-resources" id="toc-planning-resources">Planning
+  Resources</a>
 - <a href="#methods" id="toc-methods">Methods</a>
 - <a href="#references" id="toc-references">References</a>
 
@@ -70,6 +72,20 @@ Table 2: Planned invasive species survey schedule for Kenai Peninsula
 waterbodies.
 
 </div>
+
+## Planning Resources
+
+### Prioritizations
+
+- Alaska Invasive Species Lake Prioritization:
+  <https://experience.arcgis.com/experience/41a6f3a3f35f4e0fae52f9c5a0c2fbd2/>
+
+### Information about Past Surveys
+
+- Kenai Peninsula AIS Survey and Monitoring Map:
+  <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750>
+- Alaska Exotic Plant Information Clearinghouse database:
+  <http://aknhp.uaa.alaska.edu/apps/akepic/>
 
 ## Methods
 
