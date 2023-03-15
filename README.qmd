@@ -89,6 +89,7 @@ knitr::kable(sch,
 ### Prioritizations
 
 - Alaska Invasive Species Lake Prioritization: <https://experience.arcgis.com/experience/41a6f3a3f35f4e0fae52f9c5a0c2fbd2/>
+- Finalized prioritization for Elodea surveys on the Kenai Peninsula: <https://www.arcgis.com/home/item.html?id=fe95107ac89c4d488ffa8cfdc0d65178>
 
 ### Information about Past Surveys
 
