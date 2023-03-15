@@ -89,11 +89,12 @@ waterbodies. Acronyms are the same as in [Table 1](#tbl-coop).
 
 ## Methods
 
-Waterbody names and locations from were downloaded from USGS
-(<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3,
-2023. We obtained planned survey schedules through personal
-communication and from available plans ([Massengill, Begich, and Dunker
-2022](#ref-Massengilletal2022)).
+We obtained planned survey schedules through personal communication and
+from available plans ([Massengill, Begich, and Dunker
+2022](#ref-Massengilletal2022)). When not provided, we obtained names
+and locations of waterbodies from USGS GNIS
+(<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google
+Earth (<https://earth.google.com/>).
 
 ## References
 
