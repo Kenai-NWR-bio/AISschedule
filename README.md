@@ -3,8 +3,8 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 
 - <a href="#purpose" id="toc-purpose">Purpose</a>
 - <a href="#cooperators" id="toc-cooperators">Cooperators</a>
-- <a href="#methods" id="toc-methods">Methods</a>
 - <a href="#schedule" id="toc-schedule">Schedule</a>
+- <a href="#methods" id="toc-methods">Methods</a>
 - <a href="#references" id="toc-references">References</a>
 
 ## Purpose
@@ -35,14 +35,6 @@ Species Management Area 2021](#ref-ElodeaCommittee2021); [Dunker et al.
 Table 1: Kenai Peninsula aquatic invasive species survey participants.
 
 </div>
-
-## Methods
-
-Waterbody names and locations from were downloaded from USGS
-(<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3,
-2023. We obtained planned survey schedules through personal
-communication and from available plans ([Massengill, Begich, and Dunker
-2022](#ref-Massengilletal2022)).
 
 ## Schedule
 
@@ -78,6 +70,14 @@ Table 2: Planned invasive species survey schedule for Kenai Peninsula
 waterbodies.
 
 </div>
+
+## Methods
+
+Waterbody names and locations from were downloaded from USGS
+(<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3,
+2023. We obtained planned survey schedules through personal
+communication and from available plans ([Massengill, Begich, and Dunker
+2022](#ref-Massengilletal2022)).
 
 ## References
 

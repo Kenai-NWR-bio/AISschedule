@@ -44,9 +44,6 @@ knitr::kable(coop,
 )
 ```
 
-## Methods
-
-Waterbody names and locations from were downloaded from USGS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3, 2023. We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022].
 
 ## Schedule
 
@@ -69,5 +66,9 @@ knitr::kable(sch,
   col.names = col.names
 )
 ```
+
+## Methods
+
+Waterbody names and locations from were downloaded from USGS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) on March 3, 2023. We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022].
 
 ## References
