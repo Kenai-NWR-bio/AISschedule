@@ -69,7 +69,7 @@ Table 1: Kenai Peninsula aquatic invasive species survey participants.
 | 2024 | Y Lake             | 60.39162 | -151.1706 | rainbow trout      | ADFG      |
 
 Table 2: Planned invasive species survey schedule for Kenai Peninsula
-waterbodies.
+waterbodies. Acronyms are the same as in [Table 1](#tbl-coop).
 
 </div>
 

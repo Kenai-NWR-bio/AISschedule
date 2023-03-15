@@ -50,7 +50,7 @@ knitr::kable(coop,
 
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
-#| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies."
+#| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies. Acronyms are the same as in @tbl-coop."
 #| tbl-cap-location: top
 
 
