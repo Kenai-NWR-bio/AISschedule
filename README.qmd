@@ -48,6 +48,8 @@ knitr::kable(coop,
 
 ## Schedule
 
+The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a CSV file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
+
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
 #| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies. Acronyms are the same as in @tbl-coop."

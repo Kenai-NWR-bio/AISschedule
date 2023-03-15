@@ -40,6 +40,10 @@ Table 1: Kenai Peninsula aquatic invasive species survey participants.
 
 ## Schedule
 
+The planned sampling schedule is available in [Table 2](#tbl-schedule)
+below and it can be downloaded as a CSV file in this repository at
+[data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
+
 <div id="tbl-schedule">
 
 | Year | Waterbody Name     | Latitude | Longitude | Target Species     | Surveyors |
