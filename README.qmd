@@ -10,6 +10,10 @@ link-citations: true
 ---
 
 ```{r setup, echo=FALSE}
+# Load libraries.
+library(sf)
+
+# Load data.
 sch <- read.csv("data/raw_data/planning_data/survey_schedule.csv",
  stringsAsFactors = FALSE)
 sch <- sch[order(sch$year, 
@@ -19,6 +23,16 @@ coop <- read.csv("data/raw_data/planning_data/cooperators.csv",
  stringsAsFactors = FALSE)
 coop <- coop[order(coop$name,
  coop$acronym),]
+
+# Process data.
+schsf <- st_as_sf(sch, coords = c("longitude", y="latitude"))
+st_crs(schsf) <- "EPSG:4326"
+
+# Export data.
+st_write(schsf, dsn = "data/final_data/geodata/survey_schedule.kml",
+ delete_dsn = TRUE)
+st_write(schsf, dsn = "data/final_data/geodata/survey_schedule.shp",
+ delete_dsn = TRUE)
 ```
 
 
@@ -48,7 +62,7 @@ knitr::kable(coop,
 
 ## Schedule
 
-The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a CSV file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
+The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a csv file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
 
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
@@ -83,6 +97,8 @@ knitr::kable(sch,
 
 ## Methods
 
-We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022]. When not provided, we obtained names and locations of waterbodies from USGS GNIS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google Earth (<https://earth.google.com/>). 
+We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022]. When not provided, we obtained names and locations of waterbodies from USGS GNIS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google Earth (<https://earth.google.com/>).
+
+The schedule was rendered into kml and shp formats using R, version 4.2.2 [@RCoreTeam2022] and the sf package, version 1.0-9 [@Pebesma2018].
 
 ## References

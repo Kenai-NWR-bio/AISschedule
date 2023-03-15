@@ -1,2 +1,3 @@
 *.Rhistory
+data/final_data/geodata/*
 source_data/*

@@ -9,6 +9,21 @@ Kenai Peninsula Aquatic Invasive Species Survey Schedule
 - <a href="#methods" id="toc-methods">Methods</a>
 - <a href="#references" id="toc-references">References</a>
 
+    Linking to GEOS 3.9.3, GDAL 3.5.2, PROJ 8.2.1; sf_use_s2() is TRUE
+
+    Deleting source `data/final_data/geodata/survey_schedule.kml' using driver `KML'
+    Writing layer `survey_schedule' to data source 
+      `data/final_data/geodata/survey_schedule.kml' using driver `KML'
+    Writing 23 features with 4 fields and geometry type Point.
+
+    Warning in abbreviate_shapefile_names(obj): Field names abbreviated for ESRI
+    Shapefile driver
+
+    Deleting source `data/final_data/geodata/survey_schedule.shp' using driver `ESRI Shapefile'
+    Writing layer `survey_schedule' to data source 
+      `data/final_data/geodata/survey_schedule.shp' using driver `ESRI Shapefile'
+    Writing 23 features with 4 fields and geometry type Point.
+
 ## Purpose
 
 The purpose of this repository is to facilitate collaboration among
@@ -41,7 +56,7 @@ Table 1: Kenai Peninsula aquatic invasive species survey participants.
 ## Schedule
 
 The planned sampling schedule is available in [Table 2](#tbl-schedule)
-below and it can be downloaded as a CSV file in this repository at
+below and it can be downloaded as a csv file in this repository at
 [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
 
 <div id="tbl-schedule">
@@ -100,6 +115,10 @@ and locations of waterbodies from USGS GNIS
 (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google
 Earth (<https://earth.google.com/>).
 
+The schedule was rendered into kml and shp formats using R, version
+4.2.2 ([R Core Team 2022](#ref-RCoreTeam2022)) and the sf package,
+version 1.0-9 ([Pebesma 2018](#ref-Pebesma2018)).
+
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
@@ -132,6 +151,22 @@ and Native Fish Restoration, 2022–2024.” Regional Operational Plan
 ROP.SF.2A.2022.28. Anchorage, Alaska: Alaska Department of Fish and
 Game, Division of Sport Fish.
 <http://www.adfg.alaska.gov/FedAidPDFs/ROP.SF.2A.2022.28.pdf>.
+
+</div>
+
+<div id="ref-Pebesma2018" class="csl-entry">
+
+Pebesma, Edzer. 2018. “<span class="nocase">Simple Features for R:
+Standardized Support for Spatial Vector Data</span>.” *The R Journal* 10
+(1): 439–46. <https://doi.org/10.32614/RJ-2018-009>.
+
+</div>
+
+<div id="ref-RCoreTeam2022" class="csl-entry">
+
+R Core Team. 2022. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
 
 </div>
 
