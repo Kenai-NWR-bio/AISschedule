@@ -1,0 +1,79 @@
+---
+title: "Adding ADF&G eDNA pike survey history"
+author:   
+  - name: Matthew L. Bowser
+    email: matt_bowser@fws.gov
+    orcid: 0000-0003-4879-3997
+date: "`r Sys.Date()`"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    self-contained: true
+---
+
+
+```{r setup}
+# Load libraries.
+library(readxl)
+
+# Load data.
+edata <- read_xlsx(
+ path = 
+ "../source_data/ADFG/2013_northern_pike_surveys/KNWR pike eDNA data_2013_for M. Bowser.xlsx",
+ sheet = 1,
+ skip = 2
+ )
+sch <- read.csv("../data/raw_data/planning_data/survey_schedule.csv",
+ stringsAsFactors = FALSE)
+```
+
+```{r combinedata}
+# Conform data to append to the schedule table.
+waterbody <- strsplit(edata$`Sample  Description`, split="#")
+edata$waterbody <- sapply(waterbody, "[[", 1)
+edata$waterbody <- trimws(edata$waterbody)
+edata$waterbody[grepl("Blank", edata$waterbody)] <- NA
+edata$waterbody[grepl("Sample", edata$waterbody)] <- NA
+
+# Need to get some central latitude and longitude
+lat <- aggregate(edata$Latitude,
+ by = list(edata$waterbody),
+ FUN = mean,
+ na.rm = TRUE
+ )
+names(lat) <- c("waterbody_name", "latitude")
+lon <- aggregate(edata$Longitude,
+ by = list(edata$waterbody),
+ FUN = mean,
+ na.rm = TRUE
+ )
+# Are the waterbodies the same?
+lat$waterbody == lon$Group.1
+# Good. Now put everything together.
+toadd <- cbind(lat, lon$x)
+names(toadd)[3] <- "longitude"
+toadd$longitude <- toadd$longitude * -1
+# Fix place names.
+toadd$waterbody_name[toadd$waterbody_name == "Moose R"] <- "Moose River"
+toadd$waterbody_name[toadd$waterbody_name == "Moosehorn"] <- "Moosehorn Lake"
+toadd$waterbody_name[toadd$waterbody_name == "Engumen Lake Lake"] <- "Engumen Lake"
+
+toadd$year <- 2013
+toadd$target_species <- "northern pike"
+toadd$surveyors <- "ADFG"
+
+# Put the datasets together.
+toadd <- toadd[,names(sch)]
+sch <- rbind(sch, toadd)
+sch <- sch[order(sch$year, 
+ sch$waterbody_name,
+ sch$target_species),]
+
+# Save this.
+write.csv(sch,
+ file = "../data/raw_data/planning_data/survey_schedule.csv",
+ row.names = FALSE)
+```
+
+
