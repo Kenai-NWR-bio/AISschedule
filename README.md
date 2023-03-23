@@ -175,8 +175,8 @@ Podgórski, and Geldreich 2022](#ref-Csardietal2022)).
 
 <div id="ref-Csardietal2022" class="csl-entry">
 
-Csárdi, Gábor, Kuba Podgórski, and Rich Geldreich. 2022. *Zip:
-Cross-Platform ’Zip’ Compression*.
+Csárdi, Gábor, Kuba Podgórski, and Rich Geldreich. 2022. *<span
+class="nocase">zip</span>: Cross-Platform ’Zip’ Compression*.
 <https://CRAN.R-project.org/package=zip>.
 
 </div>
