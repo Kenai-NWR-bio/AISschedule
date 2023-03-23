@@ -1,51 +1,70 @@
-"year","waterbody_name","latitude","longitude","target_species","surveyors"
-2013,"Akula Lake",60.6806922222222,-151.03697,"northern pike","ADFG"
-2013,"Bear Lake",60.6612092,-150.3749662,"northern pike","ADFG"
-2013,"Camp Island Lake",60.6307522727273,-150.725542272727,"northern pike","ADFG"
-2013,"Campers Lake",60.8196266,-150.546929933333,"northern pike","ADFG"
-2013,"Campfire Lake",60.743856,-150.607174,"northern pike","ADFG"
-2013,"Clam Lake",60.634605,-150.606693333333,"northern pike","ADFG"
-2013,"East Crane Lake",60.7845422,-150.96796,"northern pike","ADFG"
-2013,"Engumen Lake",60.52612,-150.42882,"northern pike","ADFG"
-2013,"Gene Lake",60.8335015151515,-150.468381818181,"northern pike","ADFG"
-2013,"Grebe Lake",60.6128531578947,-150.704277894737,"northern pike","ADFG"
-2013,"Gruska Lake",60.764724,-150.7897292,"northern pike","ADFG"
-2013,"Hat Lake",60.7786656,-150.5653176,"northern pike","ADFG"
-2013,"Imeri Lake",60.5437202,-150.479172,"northern pike","ADFG"
-2013,"Kelly Lake",60.516755625,-150.380027,"northern pike","ADFG"
-2013,"Leaf Lake",60.7940262,-150.5252788,"northern pike","ADFG"
-2013,"Lonely Lake",60.7880416,-150.548289,"northern pike","ADFG"
-2013,"Loon Lake",60.6562680645161,-150.592728064516,"northern pike","ADFG"
-2013,"McLane Lake",60.8673825714286,-150.573445,"northern pike","ADFG"
-2013,"Meadow Lake",60.642864,-150.67095,"northern pike","ADFG"
-2013,"Moose River",60.544388,-150.68798,"northern pike","ADFG"
-2013,"Moosehorn Lake",60.6437483571429,-150.5695135,"northern pike","ADFG"
-2013,"Petersen Lake",60.5219986,-150.3988586,"northern pike","ADFG"
-2013,"Rock Lake",60.6401388888889,-150.639001111111,"northern pike","ADFG"
-2013,"Swan Lake",60.6683356666667,-150.5363915,"northern pike","ADFG"
-2013,"Swanson River",60.7415323,-150.88551336,"northern pike","ADFG"
-2013,"Watson Lake",60.538584,-150.467106,"northern pike","ADFG"
-2013,"Wild Lake",60.8642233333333,-150.48007,"northern pike","ADFG"
-2023,"Beluga Lake",59.6433653,-151.5089295,"Elodea","HSWCD"
-2023,"City of Kenai Pond",60.581228,-151.279693,"fathead minnow","ADFG"
-2023,"Daniels Lake",60.7354768,-151.1881937,"dreissenid mussels","ADFG"
-2023,"Derks Pond",60.525671,-150.970904,"northern pike","ADFG"
-2023,"East Mackey Lake",60.530484,-150.994013,"dreissenid mussels","ADFG"
-2023,"East Mackey Lake",60.530484,-150.994013,"northern pike","ADFG"
-2023,"Sevena Lake",60.5513432,-150.9690571,"dreissenid mussels","ADFG"
-2023,"Stormy Lake",60.7747665,-151.0577023,"dreissenid mussels","ADFG"
-2023,"Warlfe Lake",60.290155,-151.365712,"northern pike","ADFG"
-2023,"West Mackey Lake",60.528155,-151.009511,"dreissenid mussels","ADFG"
-2024,"CC Lake",60.421778,-151.195102,"northern pike","ADFG"
-2024,"Crystal Lake",60.424205,-151.190872,"northern pike","ADFG"
-2024,"Fred's Lake",60.424147,-151.198286,"northern pike","ADFG"
-2024,"G Lake",60.4299,-151.177922,"northern pike","ADFG"
-2024,"Hope Lake",60.421483,-151.187683,"northern pike","ADFG"
-2024,"Leisure Lake",60.415164,-151.210241,"northern pike","ADFG"
-2024,"Leisure Pond",60.419165,-151.207173,"northern pike","ADFG"
-2024,"Miller Creek",60.989477,-150.450037,"northern pike","ADFG"
-2024,"North Vogel Lake",60.996564,-150.412099,"northern pike","ADFG"
-2024,"Ranchero Lake",60.422857,-151.183571,"northern pike","ADFG"
-2024,"Sandpiper Lake",61.0036107,-150.4078911,"Elodea","KNWR"
-2024,"Vogel Lake",60.988725,-150.430818,"northern pike","ADFG"
-2024,"Y Lake",60.391618,-151.170624,"rainbow trout","ADFG"
+year,waterbody_name,latitude,longitude,target_species,surveyors
+2013,60.808N150.914W Lake,60.807962,-150.9142,northern pike,ADFG
+2013,Akula Lake,60.68069222,-151.03697,northern pike,ADFG
+2013,Bear Lake,60.6612092,-150.3749662,northern pike,ADFG
+2013,Camp Island Lake,60.63075227,-150.7255423,northern pike,ADFG
+2013,Campers Lake,60.8196266,-150.5469299,northern pike,ADFG
+2013,Campfire Lake,60.743856,-150.607174,northern pike,ADFG
+2013,Clam Lake,60.634605,-150.6066933,northern pike,ADFG
+2013,East Crane Lake,60.779082,-150.980528,northern pike,ADFG
+2013,Engumen Lake,60.52612,-150.42882,northern pike,ADFG
+2013,Gene Lake,60.83350152,-150.4683818,northern pike,ADFG
+2013,Grebe Lake,60.61285316,-150.7042779,northern pike,ADFG
+2013,Gruska Lake,60.764724,-150.7897292,northern pike,ADFG
+2013,Hat Lake,60.7786656,-150.5653176,northern pike,ADFG
+2013,Imeri Lake,60.5437202,-150.479172,northern pike,ADFG
+2013,Kelly Lake,60.51675563,-150.380027,northern pike,ADFG
+2013,Leaf Lake,60.7940262,-150.5252788,northern pike,ADFG
+2013,Lonely Lake,60.7880416,-150.548289,northern pike,ADFG
+2013,Loon Lake,60.65626806,-150.5927281,northern pike,ADFG
+2013,McLane Lake,60.86738257,-150.573445,northern pike,ADFG
+2013,Meadow Lake,60.642864,-150.67095,northern pike,ADFG
+2013,Moose River,60.536800,-150.754230,northern pike,ADFG
+2013,Moose River,60.540030,-150.753070,northern pike,ADFG
+2013,Moose River,60.542880,-150.748570,northern pike,ADFG
+2013,Moose River,60.545640,-150.746350,northern pike,ADFG
+2013,Moose River,60.546410,-150.749280,northern pike,ADFG
+2013,Moose River,60.553290,-150.740330,northern pike,ADFG
+2013,Moose River,60.557220,-150.733580,northern pike,ADFG
+2013,Moose River,60.559890,-150.731900,northern pike,ADFG
+2013,Moose River,60.531560,-150.462040,northern pike,ADFG
+2013,Moose River,60.530160,-150.460450,northern pike,ADFG
+2013,Moosehorn Lake,60.64374836,-150.5695135,northern pike,ADFG
+2013,Petersen Lake,60.5219986,-150.3988586,northern pike,ADFG
+2013,Rock Lake,60.64013889,-150.6390011,northern pike,ADFG
+2013,Swan Lake,60.66833567,-150.5363915,northern pike,ADFG
+2013,Swanson River,60.744177,-150.798444,northern pike,ADFG
+2013,Swanson River,60.744295,-150.79909,northern pike,ADFG
+2013,Swanson River,60.744366,-150.850795,northern pike,ADFG
+2013,Swanson River,60.744113,-150.850413,northern pike,ADFG
+2013,Swanson River,60.708438,-150.8665556,northern pike,ADFG
+2013,Swanson River,60.708399,-150.866056,northern pike,ADFG
+2013,Swanson River,60.720325,-150.899327,northern pike,ADFG
+2013,Swanson River,60.720371,-150.900108,northern pike,ADFG
+2013,Swanson River,60.789918,-151.012347,northern pike,ADFG
+2013,Swanson River,60.790921,-151.011998,northern pike,ADFG
+2013,Watson Lake,60.538584,-150.467106,northern pike,ADFG
+2013,Wild Lake,60.86422333,-150.48007,northern pike,ADFG
+2023,Beluga Lake,59.6433653,-151.5089295,Elodea,HSWCD
+2023,City of Kenai Pond,60.581228,-151.279693,fathead minnow,ADFG
+2023,Daniels Lake,60.7354768,-151.1881937,dreissenid mussels,ADFG
+2023,Derks Pond,60.525671,-150.970904,northern pike,ADFG
+2023,East Mackey Lake,60.530484,-150.994013,dreissenid mussels,ADFG
+2023,East Mackey Lake,60.530484,-150.994013,northern pike,ADFG
+2023,Sevena Lake,60.5513432,-150.9690571,dreissenid mussels,ADFG
+2023,Stormy Lake,60.7747665,-151.0577023,dreissenid mussels,ADFG
+2023,Warlfe Lake,60.290155,-151.365712,northern pike,ADFG
+2023,West Mackey Lake,60.528155,-151.009511,dreissenid mussels,ADFG
+2024,CC Lake,60.421778,-151.195102,northern pike,ADFG
+2024,Crystal Lake,60.424205,-151.190872,northern pike,ADFG
+2024,Fred's Lake,60.424147,-151.198286,northern pike,ADFG
+2024,G Lake,60.4299,-151.177922,northern pike,ADFG
+2024,Hope Lake,60.421483,-151.187683,northern pike,ADFG
+2024,Leisure Lake,60.415164,-151.210241,northern pike,ADFG
+2024,Leisure Pond,60.419165,-151.207173,northern pike,ADFG
+2024,Miller Creek,60.989477,-150.450037,northern pike,ADFG
+2024,North Vogel Lake,60.996564,-150.412099,northern pike,ADFG
+2024,Ranchero Lake,60.422857,-151.183571,northern pike,ADFG
+2024,Sandpiper Lake,61.0036107,-150.4078911,Elodea,KNWR
+2024,Vogel Lake,60.988725,-150.430818,northern pike,ADFG
+2024,Y Lake,60.391618,-151.170624,rainbow trout,ADFG
