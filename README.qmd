@@ -28,10 +28,16 @@ coop <- coop[order(coop$name,
 schsf <- st_as_sf(sch, coords = c("longitude", y="latitude"))
 st_crs(schsf) <- "EPSG:4326"
 
+this_year <- as.numeric(substr(Sys.time(), 1, 4))
+
 # Export data.
-st_write(schsf, dsn = "data/final_data/geodata/survey_schedule.kml",
+st_write(schsf[schsf$year >= this_year,], dsn = "data/final_data/geodata/survey_schedule.kml",
  delete_dsn = TRUE)
-st_write(schsf, dsn = "data/final_data/geodata/survey_schedule.shp",
+st_write(schsf[schsf$year >= this_year,], dsn = "data/final_data/geodata/survey_schedule.shp",
+ delete_dsn = TRUE)
+st_write(schsf[schsf$year < this_year,], dsn = "data/final_data/geodata/past_surveys.kml",
+ delete_dsn = TRUE)
+st_write(schsf[schsf$year < this_year,], dsn = "data/final_data/geodata/past_surveys.shp",
  delete_dsn = TRUE)
 ```
 
@@ -76,7 +82,7 @@ col.names <- c("Year",
  "Longitude",
  "Target Species",
  "Surveyors")
-knitr::kable(sch, 
+knitr::kable(sch[schsf$year >= this_year,], 
   longtable = TRUE, 
   booktabs = TRUE,
   row.names = FALSE,
@@ -96,10 +102,33 @@ knitr::kable(sch,
 - Kenai Peninsula AIS Survey and Monitoring Map:  <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750> 
 - Alaska Exotic Plant Information Clearinghouse database: <http://aknhp.uaa.alaska.edu/apps/akepic/>
 
+Some data on past surveys have been gathered into @tbl-past.
+
+```{r scheduletab, echo=FALSE}
+#| label: tbl-past
+#| tbl-cap: "Past aquatic invasive species surveys in Peninsula waterbodies. Acronyms are the same as in @tbl-coop."
+#| tbl-cap-location: top
+
+
+col.names <- c("Year", 
+ "Waterbody Name",
+ "Latitude",
+ "Longitude",
+ "Target Species",
+ "Surveyors")
+knitr::kable(sch[schsf$year < this_year,], 
+  longtable = TRUE, 
+  booktabs = TRUE,
+  row.names = FALSE,
+  col.names = col.names
+)
+```
+
+
 ## Methods
 
 We obtained planned survey schedules through personal communication and from available plans [@Massengilletal2022]. When not provided, we obtained names and locations of waterbodies from USGS GNIS (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google Earth (<https://earth.google.com/>).
 
-The schedule was rendered into kml and shp formats using R, version 4.2.2 [@RCoreTeam2022] and the sf package, version 1.0-9 [@Pebesma2018].
+Data were processed using R, version 4.2.2 [@RCoreTeam2022] and the R packages readxl, version 1.4.1 [@WickhamBryan2022] and sf, version 1.0-9 [@Pebesma2018].
 
 ## References

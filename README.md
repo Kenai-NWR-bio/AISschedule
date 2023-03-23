@@ -96,6 +96,45 @@ waterbodies. Acronyms are the same as in [Table 1](#tbl-coop).
 - Alaska Exotic Plant Information Clearinghouse database:
   <http://aknhp.uaa.alaska.edu/apps/akepic/>
 
+Some data on past surveys have been gathered into [Table 3](#tbl-past).
+
+<div id="tbl-past">
+
+| Year | Waterbody Name   | Latitude | Longitude | Target Species | Surveyors |
+|-----:|:-----------------|---------:|----------:|:---------------|:----------|
+| 2013 | Akula Lake       | 60.68069 | -151.0370 | northern pike  | ADFG      |
+| 2013 | Bear Lake        | 60.66121 | -150.3750 | northern pike  | ADFG      |
+| 2013 | Camp Island Lake | 60.63075 | -150.7255 | northern pike  | ADFG      |
+| 2013 | Campers Lake     | 60.81963 | -150.5469 | northern pike  | ADFG      |
+| 2013 | Campfire Lake    | 60.74386 | -150.6072 | northern pike  | ADFG      |
+| 2013 | Clam Lake        | 60.63461 | -150.6067 | northern pike  | ADFG      |
+| 2013 | East Crane Lake  | 60.78454 | -150.9680 | northern pike  | ADFG      |
+| 2013 | Engumen Lake     | 60.52612 | -150.4288 | northern pike  | ADFG      |
+| 2013 | Gene Lake        | 60.83350 | -150.4684 | northern pike  | ADFG      |
+| 2013 | Grebe Lake       | 60.61285 | -150.7043 | northern pike  | ADFG      |
+| 2013 | Gruska Lake      | 60.76472 | -150.7897 | northern pike  | ADFG      |
+| 2013 | Hat Lake         | 60.77867 | -150.5653 | northern pike  | ADFG      |
+| 2013 | Imeri Lake       | 60.54372 | -150.4792 | northern pike  | ADFG      |
+| 2013 | Kelly Lake       | 60.51676 | -150.3800 | northern pike  | ADFG      |
+| 2013 | Leaf Lake        | 60.79403 | -150.5253 | northern pike  | ADFG      |
+| 2013 | Lonely Lake      | 60.78804 | -150.5483 | northern pike  | ADFG      |
+| 2013 | Loon Lake        | 60.65627 | -150.5927 | northern pike  | ADFG      |
+| 2013 | McLane Lake      | 60.86738 | -150.5734 | northern pike  | ADFG      |
+| 2013 | Meadow Lake      | 60.64286 | -150.6710 | northern pike  | ADFG      |
+| 2013 | Moose River      | 60.54439 | -150.6880 | northern pike  | ADFG      |
+| 2013 | Moosehorn Lake   | 60.64375 | -150.5695 | northern pike  | ADFG      |
+| 2013 | Petersen Lake    | 60.52200 | -150.3989 | northern pike  | ADFG      |
+| 2013 | Rock Lake        | 60.64014 | -150.6390 | northern pike  | ADFG      |
+| 2013 | Swan Lake        | 60.66834 | -150.5364 | northern pike  | ADFG      |
+| 2013 | Swanson River    | 60.74153 | -150.8855 | northern pike  | ADFG      |
+| 2013 | Watson Lake      | 60.53858 | -150.4671 | northern pike  | ADFG      |
+| 2013 | Wild Lake        | 60.86422 | -150.4801 | northern pike  | ADFG      |
+
+Table 3: Past aquatic invasive species surveys in Peninsula waterbodies.
+Acronyms are the same as in [Table 1](#tbl-coop).
+
+</div>
+
 ## Methods
 
 We obtained planned survey schedules through personal communication and
@@ -105,9 +144,10 @@ and locations of waterbodies from USGS GNIS
 (<https://geonames.usgs.gov/docs/stategaz/AK_Features.zip>) or Google
 Earth (<https://earth.google.com/>).
 
-The schedule was rendered into kml and shp formats using R, version
-4.2.2 ([R Core Team 2022](#ref-RCoreTeam2022)) and the sf package,
-version 1.0-9 ([Pebesma 2018](#ref-Pebesma2018)).
+Data were processed using R, version 4.2.2 ([R Core Team
+2022](#ref-RCoreTeam2022)) and the R packages readxl, version 1.4.1
+([Wickham and Bryan 2022](#ref-WickhamBryan2022)) and sf, version 1.0-9
+([Pebesma 2018](#ref-Pebesma2018)).
 
 ## References
 
@@ -157,6 +197,14 @@ Standardized Support for Spatial Vector Data</span>.” *The R Journal* 10
 R Core Team. 2022. *R: A Language and Environment for Statistical
 Computing*. Vienna, Austria: R Foundation for Statistical Computing.
 <https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-WickhamBryan2022" class="csl-entry">
+
+Wickham, Hadley, and Jennifer Bryan. 2022. *<span
+class="nocase">readxl</span>: Read Excel Files*.
+<https://CRAN.R-project.org/package=readxl>.
 
 </div>
 
