@@ -111,7 +111,7 @@ Some data on past surveys have been gathered into [Table 3](#tbl-past).
 | 2013 | East Crane Lake       | 60.77908 | -150.9805 | northern pike  | ADFG      |
 | 2013 | East Fork Moose River | 60.53156 | -150.4620 | northern pike  | ADFG      |
 | 2013 | East Fork Moose River | 60.53016 | -150.4605 | northern pike  | ADFG      |
-| 2013 | Engumen Lake          | 60.52612 | -150.4288 | northern pike  | ADFG      |
+| 2013 | Egumen Lake           | 60.52612 | -150.4288 | northern pike  | ADFG      |
 | 2013 | Gene Lake             | 60.83350 | -150.4684 | northern pike  | ADFG      |
 | 2013 | Grebe Lake            | 60.61285 | -150.7043 | northern pike  | ADFG      |
 | 2013 | Gruska Lake           | 60.75561 | -150.7902 | northern pike  | ADFG      |
