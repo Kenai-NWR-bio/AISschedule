@@ -165,12 +165,21 @@ Earth (<https://earth.google.com/>).
 
 Data were processed using R, version 4.2.2 ([R Core Team
 2022](#ref-RCoreTeam2022)) and the R packages readxl, version 1.4.1
-([Wickham and Bryan 2022](#ref-WickhamBryan2022)) and sf, version 1.0-9
-([Pebesma 2018](#ref-Pebesma2018)).
+([Wickham and Bryan 2022](#ref-WickhamBryan2022)); sf, version 1.0-9
+([Pebesma 2018](#ref-Pebesma2018)); and zip, version 2.2.2 ([Csárdi,
+Podgórski, and Geldreich 2022](#ref-Csardietal2022)).
 
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Csardietal2022" class="csl-entry">
+
+Csárdi, Gábor, Kuba Podgórski, and Rich Geldreich. 2022. *Zip:
+Cross-Platform ’Zip’ Compression*.
+<https://CRAN.R-project.org/package=zip>.
+
+</div>
 
 <div id="ref-Dunkeretal2022" class="csl-entry">
 
