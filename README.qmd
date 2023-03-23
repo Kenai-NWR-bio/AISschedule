@@ -72,7 +72,7 @@ The planned sampling schedule is available in @tbl-schedule below and it can be 
 
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
-#| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies. Acronyms are the same as in @tbl-coop."
+#| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies. Acronyms of surveyors are the same as in @tbl-coop."
 #| tbl-cap-location: top
 
 
@@ -106,7 +106,7 @@ Some data on past surveys have been gathered into @tbl-past.
 
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-past
-#| tbl-cap: "Past aquatic invasive species surveys in Peninsula waterbodies. Acronyms are the same as in @tbl-coop."
+#| tbl-cap: "Past aquatic invasive species surveys in Peninsula waterbodies. Acronyms of surveyors are the same as in @tbl-coop."
 #| tbl-cap-location: top
 
 

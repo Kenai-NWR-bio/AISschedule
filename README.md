@@ -76,7 +76,8 @@ formats from the
 | 2024 | Y Lake             | 60.39162 | -151.1706 | rainbow trout      | ADFG      |
 
 Table 2: Planned invasive species survey schedule for Kenai Peninsula
-waterbodies. Acronyms are the same as in [Table 1](#tbl-coop).
+waterbodies. Acronyms of surveyors are the same as in
+[Table 1](#tbl-coop).
 
 </div>
 
@@ -149,7 +150,7 @@ Some data on past surveys have been gathered into [Table 3](#tbl-past).
 | 2013 | Wild Lake             | 60.86422 | -150.4801 | northern pike  | ADFG      |
 
 Table 3: Past aquatic invasive species surveys in Peninsula waterbodies.
-Acronyms are the same as in [Table 1](#tbl-coop).
+Acronyms of surveyors are the same as in [Table 1](#tbl-coop).
 
 </div>
 
