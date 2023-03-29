@@ -51,7 +51,6 @@ formats from the
 
 | Year | Waterbody Name     | Latitude | Longitude | Target Species     | Surveyors |
 |-----:|:-------------------|---------:|----------:|:-------------------|:----------|
-| 2023 | 60803N150988W Lake | 60.80296 | -150.9877 | northern pike      | KNWR      |
 | 2023 | Afonasi Lake       | 60.55692 | -150.4985 | northern pike      | KNWR      |
 | 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      |
 | 2023 | Bedlam Lake        | 60.92445 | -150.3486 | northern pike      | KNWR      |
@@ -69,6 +68,7 @@ formats from the
 | 2023 | Moose Lake         | 60.74779 | -150.3150 | northern pike      | KNWR      |
 | 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      |
 | 2023 | Quill Lake         | 60.76389 | -150.7487 | northern pike      | KNWR      |
+| 2023 | Salmo Lake         | 60.80296 | -150.9877 | northern pike      | KNWR      |
 | 2023 | Scaup Lake         | 60.84626 | -150.8185 | northern pike      | KNWR      |
 | 2023 | Scenic Lake        | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake        | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
@@ -164,6 +164,7 @@ Some data on past surveys have been gathered into [Table 3](#tbl-past).
 | 2013 | Swanson River         | 60.79092 | -151.0120 | northern pike  | ADFG      |
 | 2013 | Watson Lake           | 60.53858 | -150.4671 | northern pike  | ADFG      |
 | 2013 | Wild Lake             | 60.86422 | -150.4801 | northern pike  | ADFG      |
+| 2017 | Salmo Lake            | 60.80296 | -150.9877 | northern pike  | ADFG      |
 
 Table 3: Past aquatic invasive species surveys in Peninsula waterbodies.
 Acronyms of surveyors are the same as in [Table 1](#tbl-coop).
