@@ -49,6 +49,14 @@ st_write(schsf[schsf$year < this_year,],
 if(file.exists("data/final_data/geodata/survey_schedule.zip")){
   file.remove("data/final_data/geodata/survey_schedule.zip")
 }
+
+# Export for KNWR planning.
+sl <- (schsf$year == this_year) & (schsf$surveyors == "KNWR")
+st_write(schsf[sl,], 
+ dsn = paste0("data/final_data/geodata/survey_schedule_", this_year, "_KNWR.kml"),
+ delete_dsn = TRUE)
+
+# Make a zip file for release.
 zip::zip(zipfile = "data/final_data/geodata/survey_schedule.zip",
  files = paste0("data/final_data/geodata/", 
  dir("data/final_data/geodata")),

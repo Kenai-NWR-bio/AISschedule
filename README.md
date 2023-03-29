@@ -51,14 +51,30 @@ formats from the
 
 | Year | Waterbody Name     | Latitude | Longitude | Target Species     | Surveyors |
 |-----:|:-------------------|---------:|----------:|:-------------------|:----------|
+| 2023 | 60803N150988W Lake | 60.80296 | -150.9877 | northern pike      | KNWR      |
+| 2023 | Afonasi Lake       | 60.55692 | -150.4985 | northern pike      | KNWR      |
+| 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      |
+| 2023 | Bedlam Lake        | 60.92445 | -150.3486 | northern pike      | KNWR      |
 | 2023 | Beluga Lake        | 59.64337 | -151.5089 | Elodea             | HSWCD     |
+| 2023 | Bill Besser Lake   | 60.92604 | -150.7043 | northern pike      | KNWR      |
 | 2023 | City of Kenai Pond | 60.58123 | -151.2797 | fathead minnow     | ADFG      |
+| 2023 | Coal Creek Lake    | 60.38165 | -151.0590 | northern pike      | KNWR      |
+| 2023 | Cook Lake          | 61.00242 | -150.3827 | northern pike      | KNWR      |
 | 2023 | Daniels Lake       | 60.73548 | -151.1882 | dreissenid mussels | ADFG      |
 | 2023 | Derks Pond         | 60.52567 | -150.9709 | northern pike      | ADFG      |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | dreissenid mussels | ADFG      |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | northern pike      | ADFG      |
+| 2023 | Gull Lake          | 60.81516 | -150.9463 | northern pike      | KNWR      |
+| 2023 | Kraenberi Lake     | 60.96615 | -150.4655 | northern pike      | KNWR      |
+| 2023 | Moose Lake         | 60.74779 | -150.3150 | northern pike      | KNWR      |
+| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      |
+| 2023 | Quill Lake         | 60.76389 | -150.7487 | northern pike      | KNWR      |
+| 2023 | Scaup Lake         | 60.84626 | -150.8185 | northern pike      | KNWR      |
+| 2023 | Scenic Lake        | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake        | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
+| 2023 | Slikok Lake        | 60.42573 | -151.0542 | northern pike      | KNWR      |
 | 2023 | Stormy Lake        | 60.77477 | -151.0577 | dreissenid mussels | ADFG      |
+| 2023 | Two Island Lake    | 60.88324 | -150.2743 | northern pike      | KNWR      |
 | 2023 | Warlfe Lake        | 60.29015 | -151.3657 | northern pike      | ADFG      |
 | 2023 | West Mackey Lake   | 60.52815 | -151.0095 | dreissenid mussels | ADFG      |
 | 2024 | CC Lake            | 60.42178 | -151.1951 | northern pike      | ADFG      |
