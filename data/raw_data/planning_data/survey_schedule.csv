@@ -46,52 +46,52 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2013,Wild Lake,60.86422333,-150.48007,northern pike,ADFG
 2017,Salmo Lake,60.802957,-150.987686,northern pike,ADFG
 2023,Afonasi Lake,60.5569186,-150.4985018,northern pike,KNWR
-2023,Bay Lake,60.33440018,-151.0269928,Elodea,KWF
+2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF
 2023,Bay Lake,60.333941,-151.026868,northern pike,KNWR
 2023,Beck Lake,60.73249817,-151.1329956,dreissenid mussels,KWF
-2023,Beck Lake,60.73249817,-151.1329956,Elodea,KWF
+2023,Beck Lake,60.73249817,-151.1329956,elodea,KWF
 2023,Bedlam Lake,60.9244531,-150.348619,northern pike,KNWR
-2023,Beluga Lake,59.6433653,-151.5089295,Elodea,HSWCD
+2023,Beluga Lake,59.6433653,-151.5089295,elodea,HSWCD
 2023,Bill Besser Lake,60.9260361,-150.7043377,northern pike,KNWR
-2023,Birch Lake,60.72280121,-150.5269928,Elodea,KWF
-2023,Browns Lake,60.48249817,-150.7189941,Elodea,KWF
+2023,Birch Lake,60.72280121,-150.5269928,elodea,KWF
+2023,Browns Lake,60.48249817,-150.7189941,elodea,KWF
 2023,City of Kenai Pond,60.581228,-151.279693,fathead minnow,ADFG
 2023,Coal Creek Lake,60.381646,-151.058998,northern pike,KNWR
 2023,Cook Lake,61.0024175,-150.3826838,northern pike,KNWR
 2023,Daniels Lake,60.7354768,-151.1881937,dreissenid mussels,ADFG
-2023,Daniels Lake,60.73550034,-151.1880035,Elodea,KWF
+2023,Daniels Lake,60.73550034,-151.1880035,elodea,KWF
 2023,Derks Pond,60.525671,-150.970904,northern pike,ADFG
-2023,Douglas Lake,60.66949844,-151.2259979,Elodea,KWF
+2023,Douglas Lake,60.66949844,-151.2259979,elodea,KWF
 2023,East Mackey Lake,60.530484,-150.994013,dreissenid mussels,ADFG
-2023,East Mackey Lake,60.53030014,-150.9940033,Elodea,KWF
+2023,East Mackey Lake,60.53030014,-150.9940033,elodea,KWF
 2023,East Mackey Lake,60.530484,-150.994013,northern pike,ADFG
-2023,Encelewski Lake,60.25650024,-151.3079987,Elodea,KWF
+2023,Encelewski Lake,60.25650024,-151.3079987,elodea,KWF
 2023,Encelewski Lake,60.25650024,-151.3079987,northern pike,KWF
 2023,Gull Lake,60.8151606,-150.9463052,northern pike,KNWR
-2023,Hilda-Seppu Lake,60.727764,-151.143832,Elodea,KWF
-2023,Johnson Lake,60.2901001,-151.2649994,Elodea,KWF
-2023,Kolomin Lake,60.1230011,-151.0319977,Elodea,KWF
+2023,Hilda-Seppu Lake,60.727764,-151.143832,elodea,KWF
+2023,Johnson Lake,60.2901001,-151.2649994,elodea,KWF
+2023,Kolomin Lake,60.1230011,-151.0319977,elodea,KWF
 2023,Kraenberi Lake,60.9661542,-150.4654675,northern pike,KNWR
 2023,Moose Lake,60.74779,-150.315035,northern pike,KNWR
 2023,Parsons Lake,60.69649887,-151.2619934,dreissenid mussels,KWF
-2023,Parsons Lake,60.69649887,-151.2619934,Elodea,KWF
-2023,Phalarope Lake,60.92169952,-150.4089966,Elodea,KWF
+2023,Parsons Lake,60.69649887,-151.2619934,elodea,KWF
+2023,Phalarope Lake,60.92169952,-150.4089966,elodea,KWF
 2023,Phalarope Lake,60.9153447,-150.4103894,northern pike,KNWR
 2023,Quill Lake,60.7638885,-150.7486963,northern pike,KNWR
-2023,Salamatof,60.65029907,-151.2960052,Elodea,KWF
+2023,Salamatof,60.65029907,-151.2960052,elodea,KWF
 2023,Salamatof,60.65029907,-151.2960052,northern pike,KWF
 2023,Salmo Lake,60.802957,-150.987686,northern pike,KNWR
 2023,Scaup Lake,60.8462556,-150.8185163,northern pike,KNWR
 2023,Scenic Lake,60.7603042,-150.1637881,northern pike,KNWR
 2023,Sevena Lake,60.5513432,-150.9690571,dreissenid mussels,ADFG
 2023,Slikok Lake,60.425734,-151.0541658,northern pike,KNWR
-2023,Spirit Lake,60.59569931,-150.9960022,Elodea,KWF
+2023,Spirit Lake,60.59569931,-150.9960022,elodea,KWF
 2023,Spirit Lake,60.59569931,-150.9960022,northern pike,KWF
 2023,Stormy Lake,60.7747665,-151.0577023,dreissenid mussels,ADFG
-2023,Stormy Lake,60.77730179,-151.0500031,Elodea,KWF
-2023,Twin Lakes,60.2779007,-150.1719971,Elodea,KWF
-2023,Twin Lakes,60.27859879,-150.1459961,Elodea,KWF
-2023,Two Island Lake,60.8832016,-150.2740021,Elodea,KWF
+2023,Stormy Lake,60.77730179,-151.0500031,elodea,KWF
+2023,Twin Lakes,60.2779007,-150.1719971,elodea,KWF
+2023,Twin Lakes,60.27859879,-150.1459961,elodea,KWF
+2023,Two Island Lake,60.8832016,-150.2740021,elodea,KWF
 2023,Two Island Lake,60.8832364,-150.2743341,northern pike,KNWR
 2023,Warlfe Lake,60.290155,-151.365712,northern pike,ADFG
 2023,West Mackey Lake,60.528155,-151.009511,dreissenid mussels,ADFG
@@ -105,6 +105,6 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2024,Miller Creek,60.989477,-150.450037,northern pike,ADFG
 2024,North Vogel Lake,60.996564,-150.412099,northern pike,ADFG
 2024,Ranchero Lake,60.422857,-151.183571,northern pike,ADFG
-2024,Sandpiper Lake,61.0036107,-150.4078911,Elodea,KNWR
+2024,Sandpiper Lake,61.0036107,-150.4078911,elodea,KNWR
 2024,Vogel Lake,60.988725,-150.430818,northern pike,ADFG
 2024,Y Lake,60.391618,-151.170624,rainbow trout,ADFG
