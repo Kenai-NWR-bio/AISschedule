@@ -81,7 +81,7 @@ formats from the
 | 2023 | Moose Lake         | 60.74779 | -150.3150 | northern pike      | KNWR      |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |
-| 2023 | Phalarope Lake     | 60.92170 | -150.4090 | elodea             | KWF       |
+| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       |
 | 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      |
 | 2023 | Quill Lake         | 60.76389 | -150.7487 | northern pike      | KNWR      |
 | 2023 | Salamatof          | 60.65030 | -151.2960 | elodea             | KWF       |
