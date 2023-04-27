@@ -12,7 +12,9 @@ link-citations: true
 ```{r setup, echo=FALSE, error=FALSE, comment=FALSE, warning=FALSE, message=FALSE, results=FALSE}
 # Load libraries.
 library(sf)
+library(sp)
 library(zip)
+library(plotKML)
 
 # Load data.
 sch <- read.csv("data/raw_data/planning_data/survey_schedule.csv",
@@ -32,9 +34,21 @@ st_crs(schsf) <- "EPSG:4326"
 this_year <- as.numeric(substr(Sys.time(), 1, 4))
 
 # Export data.
-st_write(schsf[schsf$year >= this_year,], 
- dsn = "data/final_data/geodata/survey_schedule.kml",
- delete_dsn = TRUE)
+#st_write(schsf[schsf$year >= this_year,], 
+# dsn = "data/final_data/geodata/survey_schedule.kml",
+# delete_dsn = TRUE)
+schsp <- as(schsf, "Spatial")
+kml_open(file.name = "data/final_data/geodata/survey_schedule.kml",
+ overwrite = TRUE
+ )
+kml_layer.SpatialPoints(schsp,
+ subfolder.name = "Invasive surveys waterbodies",
+ points_names = schsp$waterbody_name,
+ shape = "http://maps.google.com/mapfiles/kml/pal2/icon18.png",
+ colour = "#0066FF"
+ )
+kml_close(file.name = "data/final_data/geodata/survey_schedule.kml")
+
 st_write(schsf[schsf$year >= this_year,], 
  dsn = "data/final_data/geodata/survey_schedule.shp",
  delete_dsn = TRUE)
