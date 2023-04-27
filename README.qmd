@@ -34,23 +34,16 @@ st_crs(schsf) <- "EPSG:4326"
 this_year <- as.numeric(substr(Sys.time(), 1, 4))
 
 # Export data.
-schsp <- as(schsf, "Spatial")
-kml_open(file.name = "data/final_data/geodata/survey_schedule.kml",
- overwrite = TRUE
- )
 sl <- schsf$year >= this_year
-clr <- rep(NA, length(sl))
-clr[schsf$target_species[sl] %in% c("fathead minnow", "northern pike", "rainbow trout")] <- "#0066FF" 
-clr[schsf$target_species[sl] == "elodea"] <- "#3AA655"
-clr[schsf$target_species[sl] == "dreissenid mussels"] <- "#FD5B78"
-kml_layer.SpatialPoints(schsp[sl,],
- subfolder.name = "Invasive surveys waterbodies",
- points_names = paste(schsp$waterbody_name[sl], schsp$year[sl], schsp$target_species[sl], schsp$surveyors[sl]),
+schsp <- as(schsf[sl,], "Spatial")
+plotKML(schsp["target_species"],
+ file.name = "data/final_data/geodata/survey_schedule.kml",
+ folder.name = "Invasive surveys waterbodies",
  shape = "http://maps.google.com/mapfiles/kml/pal2/icon18.png",
- colour = "#0066FF",
- LabelScale = 0.8
+ LabelScale = 0.8,
+ points_names = paste(schsp@data$waterbody_name, schsp@data$year, schsp@data$target_species, schsp@data$surveyors),
+ open.kml = FALSE
  )
-kml_close(file.name = "data/final_data/geodata/survey_schedule.kml")
 
 st_write(schsf[schsf$year >= this_year,], 
  dsn = "data/final_data/geodata/survey_schedule.shp",
