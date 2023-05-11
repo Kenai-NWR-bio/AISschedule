@@ -64,7 +64,6 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Derks Pond,60.525671,-150.970904,northern pike,ADFG
 2023,Diamond Lake,61.017813,-150.371903,elodea,KNWR
 2023,Douglas Lake,60.66949844,-151.2259979,elodea,KWF
-2023,East Forest Lake,60.668252,-150.823545,elodea,KNWR
 2023,East Mackey Lake,60.530484,-150.994013,dreissenid mussels,ADFG
 2023,East Mackey Lake,60.53030014,-150.9940033,elodea,KWF
 2023,East Mackey Lake,60.530484,-150.994013,northern pike,ADFG
@@ -76,8 +75,8 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Johnson Lake,60.2901001,-151.2649994,elodea,KWF
 2023,Kolomin Lake,60.1230011,-151.0319977,elodea,KWF
 2023,Kraenberi Lake,60.9661542,-150.4654675,northern pike,KNWR
+2023,Lark Lake,60.9098,-150.521384,elodea,KNWR
 2023,Moose Lake,60.74779,-150.315035,northern pike,KNWR
-2023,Mosquito Lake,60.633542,-150.814124,elodea,KNWR
 2023,Mull Lake,60.91181,-150.34186,elodea,KNWR
 2023,Norak Lake,60.902108,-150.422649,elodea,KNWR
 2023,Parsons Lake,60.69649887,-151.2619934,dreissenid mussels,KWF

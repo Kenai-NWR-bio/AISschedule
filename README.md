@@ -70,20 +70,21 @@ formats from the
 | 2023 | Derks Pond         | 60.52567 | -150.9709 | northern pike      | ADFG      |
 | 2023 | Diamond Lake       | 61.01781 | -150.3719 | elodea             | KNWR      |
 | 2023 | Douglas Lake       | 60.66950 | -151.2260 | elodea             | KWF       |
-| 2023 | East Forest Lake   | 60.66825 | -150.8235 | elodea             | KNWR      |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | dreissenid mussels | ADFG      |
 | 2023 | East Mackey Lake   | 60.53030 | -150.9940 | elodea             | KWF       |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | northern pike      | ADFG      |
 | 2023 | Encelewski Lake    | 60.25650 | -151.3080 | elodea             | KWF       |
 | 2023 | Encelewski Lake    | 60.25650 | -151.3080 | northern pike      | KWF       |
+| 2023 | Grebe Lake         | 60.61285 | -150.7043 | elodea             | KNWR      |
 | 2023 | Gull Lake          | 60.81516 | -150.9463 | northern pike      | KNWR      |
 | 2023 | Hilda-Seppu Lake   | 60.72776 | -151.1438 | elodea             | KWF       |
 | 2023 | Johnson Lake       | 60.29010 | -151.2650 | elodea             | KWF       |
 | 2023 | Kolomin Lake       | 60.12300 | -151.0320 | elodea             | KWF       |
 | 2023 | Kraenberi Lake     | 60.96615 | -150.4655 | northern pike      | KNWR      |
+| 2023 | Lark Lake          | 60.90980 | -150.5214 | elodea             | KNWR      |
 | 2023 | Moose Lake         | 60.74779 | -150.3150 | northern pike      | KNWR      |
-| 2023 | Mosquito Lake      | 60.63354 | -150.8141 | elodea             | KNWR      |
 | 2023 | Mull Lake          | 60.91181 | -150.3419 | elodea             | KNWR      |
+| 2023 | Norak Lake         | 60.90211 | -150.4226 | elodea             | KNWR      |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |
 | 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       |
