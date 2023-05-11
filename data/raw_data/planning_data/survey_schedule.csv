@@ -45,6 +45,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2013,Watson Lake,60.538584,-150.467106,northern pike,ADFG
 2013,Wild Lake,60.86422333,-150.48007,northern pike,ADFG
 2017,Salmo Lake,60.802957,-150.987686,northern pike,ADFG
+2023,607661N1510721 Lake,60.766143,-151.072144,elodea,KNWR
 2023,Afonasi Lake,60.5569186,-150.4985018,northern pike,KNWR
 2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF
 2023,Bay Lake,60.333941,-151.026868,northern pike,KNWR
@@ -69,6 +70,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,East Mackey Lake,60.530484,-150.994013,northern pike,ADFG
 2023,Encelewski Lake,60.25650024,-151.3079987,elodea,KWF
 2023,Encelewski Lake,60.25650024,-151.3079987,northern pike,KWF
+2023,Gavia Lake,60.69106,-150.599868,elodea,KNWR
 2023,Grebe Lake,60.61285316,-150.7042779,elodea,KNWR
 2023,Gull Lake,60.8151606,-150.9463052,northern pike,KNWR
 2023,Hilda-Seppu Lake,60.727764,-151.143832,elodea,KWF
@@ -86,6 +88,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Quill Lake,60.7638885,-150.7486963,northern pike,KNWR
 2023,Salamatof,60.65029907,-151.2960052,elodea,KWF
 2023,Salamatof,60.65029907,-151.2960052,northern pike,KWF
+2023,Salmo Lake,60.802957,-150.987686,elodea,KNWR
 2023,Salmo Lake,60.802957,-150.987686,northern pike,KNWR
 2023,Scaup Lake,60.8462556,-150.8185163,northern pike,KNWR
 2023,Scenic Lake,60.7603042,-150.1637881,northern pike,KNWR
