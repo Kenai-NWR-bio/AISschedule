@@ -131,8 +131,8 @@ knitr::kable(sch[schsf$year >= this_year,],
 
 ### Information about Past Surveys
 
-- Kenai Peninsula AIS Survey and Monitoring Map:  <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750> 
-- Alaska Exotic Plant Information Clearinghouse database: <http://aknhp.uaa.alaska.edu/apps/akepic/>
+- Elodea Survey Web App by the Alaska Center for Conservation Science: <https://arcg.is/TqaWC1>
+- Kenai Peninsula AIS Survey and Monitoring Map by Kenai Watershed Forum:  <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750> 
 
 Some data on past surveys have been gathered into @tbl-past.
 

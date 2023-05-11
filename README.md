@@ -54,6 +54,7 @@ formats from the
 | 2023 | Afonasi Lake       | 60.55692 | -150.4985 | northern pike      | KNWR      |
 | 2023 | Bay Lake           | 60.33440 | -151.0270 | elodea             | KWF       |
 | 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      |
+| 2023 | Beaver Lake        | 60.65846 | -150.9799 | elodea             | KNWR      |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | dreissenid mussels | KWF       |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | elodea             | KWF       |
 | 2023 | Bedlam Lake        | 60.92445 | -150.3486 | northern pike      | KNWR      |
@@ -67,7 +68,9 @@ formats from the
 | 2023 | Daniels Lake       | 60.73548 | -151.1882 | dreissenid mussels | ADFG      |
 | 2023 | Daniels Lake       | 60.73550 | -151.1880 | elodea             | KWF       |
 | 2023 | Derks Pond         | 60.52567 | -150.9709 | northern pike      | ADFG      |
+| 2023 | Diamond Lake       | 61.01781 | -150.3719 | elodea             | KNWR      |
 | 2023 | Douglas Lake       | 60.66950 | -151.2260 | elodea             | KWF       |
+| 2023 | East Forest Lake   | 60.66825 | -150.8235 | elodea             | KNWR      |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | dreissenid mussels | ADFG      |
 | 2023 | East Mackey Lake   | 60.53030 | -150.9940 | elodea             | KWF       |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | northern pike      | ADFG      |
@@ -79,6 +82,8 @@ formats from the
 | 2023 | Kolomin Lake       | 60.12300 | -151.0320 | elodea             | KWF       |
 | 2023 | Kraenberi Lake     | 60.96615 | -150.4655 | northern pike      | KNWR      |
 | 2023 | Moose Lake         | 60.74779 | -150.3150 | northern pike      | KNWR      |
+| 2023 | Mosquito Lake      | 60.63354 | -150.8141 | elodea             | KNWR      |
+| 2023 | Mull Lake          | 60.91181 | -150.3419 | elodea             | KNWR      |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |
 | 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       |
@@ -90,9 +95,11 @@ formats from the
 | 2023 | Scaup Lake         | 60.84626 | -150.8185 | northern pike      | KNWR      |
 | 2023 | Scenic Lake        | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake        | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
+| 2023 | Shoepac Lake       | 60.86406 | -150.3733 | elodea             | KNWR      |
 | 2023 | Slikok Lake        | 60.42573 | -151.0542 | northern pike      | KNWR      |
 | 2023 | Spirit Lake        | 60.59570 | -150.9960 | elodea             | KWF       |
 | 2023 | Spirit Lake        | 60.59570 | -150.9960 | northern pike      | KWF       |
+| 2023 | Sportfish Lake     | 60.85863 | -150.2851 | elodea             | KNWR      |
 | 2023 | Stormy Lake        | 60.77477 | -151.0577 | dreissenid mussels | ADFG      |
 | 2023 | Stormy Lake        | 60.77730 | -151.0500 | elodea             | KWF       |
 | 2023 | Twin Lakes         | 60.27790 | -150.1720 | elodea             | KWF       |
@@ -132,10 +139,11 @@ waterbodies. Acronyms of surveyors are the same as in
 
 ### Information about Past Surveys
 
-- Kenai Peninsula AIS Survey and Monitoring Map:
+- Elodea Survey Web App by the Alaska Center for Conservation Science:
+  <https://arcg.is/TqaWC1>
+- Kenai Peninsula AIS Survey and Monitoring Map by Kenai Watershed
+  Forum:
   <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750>
-- Alaska Exotic Plant Information Clearinghouse database:
-  <http://aknhp.uaa.alaska.edu/apps/akepic/>
 
 Some data on past surveys have been gathered into [Table 3](#tbl-past).
 
