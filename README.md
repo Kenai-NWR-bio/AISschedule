@@ -55,7 +55,7 @@ formats from the
 | 2023 | ADFG      | fathead minnow     |                     1 |
 | 2023 | ADFG      | northern pike      |                     3 |
 | 2023 | HSWCD     | elodea             |                     1 |
-| 2023 | KNWR      | elodea             |                    18 |
+| 2023 | KNWR      | elodea             |                    19 |
 | 2023 | KNWR      | northern pike      |                    15 |
 | 2023 | KWF       | dreissenid mussels |                     2 |
 | 2023 | KWF       | elodea             |                    19 |
@@ -103,6 +103,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | East Mackey Lake      | 60.53048 | -150.9940 | northern pike      | ADFG      |
 | 2023 | Encelewski Lake       | 60.25650 | -151.3080 | elodea             | KWF       |
 | 2023 | Encelewski Lake       | 60.25650 | -151.3080 | northern pike      | KWF       |
+| 2023 | Fish Lake             | 60.72324 | -150.7274 | elodea             | KNWR      |
 | 2023 | Gavia Lake            | 60.69106 | -150.5999 | elodea             | KNWR      |
 | 2023 | Grebe Lake            | 60.61285 | -150.7043 | elodea             | KNWR      |
 | 2023 | Grus Lake             | 60.77568 | -150.6732 | elodea             | KNWR      |
