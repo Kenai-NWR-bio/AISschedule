@@ -87,8 +87,7 @@ The purpose of this repository is to facilitate collaboration among multiple par
 
 
 col.names <- c("Name",
- "Acronym",
- "URL")
+ "Acronym")
 knitr::kable(coop, 
   longtable = TRUE, 
   booktabs = TRUE,

@@ -23,16 +23,16 @@ Area 2021](#ref-ElodeaCommittee2021); [Dunker et al.
 
 <div id="tbl-coop">
 
-| Name                                                                                    | Acronym    | URL                                                                 |
-|:----------------------------------------------------------------------------------------|:-----------|:--------------------------------------------------------------------|
-| Alaska Department of Fish and Game                                                      | ADFG       | https://www.adfg.alaska.gov/                                        |
-| Chugach National Forest                                                                 | CNF        | https://www.fs.usda.gov/chugach/                                    |
-| Cook Inlet Aquaculture Association                                                      | CIAA       | https://www.ciaanet.org/                                            |
-| Homer Soil and Water Conservation District                                              | HSWCD      | https://www.homerswcd.org/                                          |
-| Kenai National Wildlife Refuge                                                          | KNWR       | https://www.fws.gov/refuge/kenai                                    |
-| Kenai Peninsula Cooperative Invasive Species Management Area                            | KP-CISMA   | https://kenaiinvasives.org/                                         |
-| Kenai Watershed Form                                                                    | KWF        | https://www.kenaiwatershed.org/                                     |
-| U.S. Fish and Wildlife Service, Alaska Region, Southwest/Southcentral EDRR Project Team | USFWS-EDRR | https://www.fws.gov/project/early-detection-invasive-species-alaska |
+| Name                                                                                    | Acronym    |
+|:----------------------------------------------------------------------------------------|:-----------|
+| Alaska Department of Fish and Game                                                      | ADFG       |
+| Chugach National Forest                                                                 | CNF        |
+| Cook Inlet Aquaculture Association                                                      | CIAA       |
+| Homer Soil and Water Conservation District                                              | HSWCD      |
+| Kenai National Wildlife Refuge                                                          | KNWR       |
+| Kenai Peninsula Cooperative Invasive Species Management Area                            | KP-CISMA   |
+| Kenai Watershed Form                                                                    | KWF        |
+| U.S. Fish and Wildlife Service, Alaska Region, Southwest/Southcentral EDRR Project Team | USFWS-EDRR |
 
 Table 1: Kenai Peninsula aquatic invasive species survey participants.
 
