@@ -63,6 +63,7 @@ formats from the
 | 2023 | Bill Besser Lake     | 60.92604 | -150.7043 | northern pike      | KNWR      |
 | 2023 | Birch Lake           | 60.72280 | -150.5270 | elodea             | KWF       |
 | 2023 | Browns Lake          | 60.48250 | -150.7190 | elodea             | KWF       |
+| 2023 | Camp Island Lake     | 60.63075 | -150.7255 | elodea             | KNWR      |
 | 2023 | City of Kenai Pond   | 60.58123 | -151.2797 | fathead minnow     | ADFG      |
 | 2023 | Coal Creek Lake      | 60.38165 | -151.0590 | northern pike      | KNWR      |
 | 2023 | Cook Lake            | 61.00242 | -150.3827 | northern pike      | KNWR      |
@@ -104,7 +105,7 @@ formats from the
 | 2023 | Spirit Lake          | 60.59570 | -150.9960 | northern pike      | KWF       |
 | 2023 | Sportfish Lake       | 60.85863 | -150.2851 | elodea             | KNWR      |
 | 2023 | Stormy Lake          | 60.77477 | -151.0577 | dreissenid mussels | ADFG      |
-| 2023 | Stormy Lake          | 60.77730 | -151.0500 | elodea             | KWF       |
+| 2023 | Stormy Lake          | 60.77477 | -151.0577 | elodea             | KWF       |
 | 2023 | Twin Lakes           | 60.27790 | -150.1720 | elodea             | KWF       |
 | 2023 | Twin Lakes           | 60.27860 | -150.1460 | elodea             | KWF       |
 | 2023 | Two Island Lake      | 60.88320 | -150.2740 | elodea             | KWF       |
