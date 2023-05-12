@@ -55,7 +55,7 @@ formats from the
 | 2023 | ADFG      | fathead minnow     |                     1 |
 | 2023 | ADFG      | northern pike      |                     3 |
 | 2023 | HSWCD     | elodea             |                     1 |
-| 2023 | KNWR      | elodea             |                    16 |
+| 2023 | KNWR      | elodea             |                    17 |
 | 2023 | KNWR      | northern pike      |                    15 |
 | 2023 | KWF       | dreissenid mussels |                     2 |
 | 2023 | KWF       | elodea             |                    19 |
@@ -132,6 +132,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Sportfish Lake        | 60.85863 | -150.2851 | elodea             | KNWR      |
 | 2023 | Stormy Lake           | 60.77477 | -151.0577 | dreissenid mussels | ADFG      |
 | 2023 | Stormy Lake           | 60.77477 | -151.0577 | elodea             | KWF       |
+| 2023 | Swan Lake             | 60.66977 | -150.5438 | elodea             | KNWR      |
 | 2023 | Tangerra Lake         | 60.96986 | -150.3680 | elodea             | KNWR      |
 | 2023 | Twin Lakes            | 60.27790 | -150.1720 | elodea             | KWF       |
 | 2023 | Twin Lakes            | 60.27860 | -150.1460 | elodea             | KWF       |
