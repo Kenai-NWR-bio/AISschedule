@@ -96,7 +96,6 @@ formats from the
 | 2023 | Salamatof            | 60.65030 | -151.2960 | northern pike      | KWF       |
 | 2023 | Salmo Lake           | 60.80296 | -150.9877 | elodea             | KNWR      |
 | 2023 | Salmo Lake           | 60.80296 | -150.9877 | northern pike      | KNWR      |
-| 2023 | Scaup Lake           | 60.84626 | -150.8185 | northern pike      | KNWR      |
 | 2023 | Scenic Lake          | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake          | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
 | 2023 | Shoepac Lake         | 60.86406 | -150.3733 | elodea             | KNWR      |
