@@ -69,6 +69,7 @@ formats from the
 | 2023 | Cook Lake            | 61.00242 | -150.3827 | northern pike      | KNWR      |
 | 2023 | Daniels Lake         | 60.73548 | -151.1882 | dreissenid mussels | ADFG      |
 | 2023 | Daniels Lake         | 60.73550 | -151.1880 | elodea             | KWF       |
+| 2023 | Decoy Lake           | 60.76821 | -150.7658 | elodea             | KNWR      |
 | 2023 | Derks Pond           | 60.52567 | -150.9709 | northern pike      | ADFG      |
 | 2023 | Diamond Lake         | 61.01781 | -150.3719 | elodea             | KNWR      |
 | 2023 | Douglas Lake         | 60.66950 | -151.2260 | elodea             | KWF       |
