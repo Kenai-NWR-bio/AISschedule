@@ -101,6 +101,30 @@ knitr::kable(coop,
 
 The planned sampling schedule is available in @tbl-schedule below and it can be downloaded as a csv file in this repository at [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv). The schedule can also be downloaded as spatial data in kml and shp formats from the [releases](https://github.com/Kenai-NWR-bio/AISschedule/releases) page.
 
+```{r schedulesum, echo=FALSE}
+#| label: tbl-schedulesum
+#| tbl-cap: "Summary of planned invasive species surveys for Kenai Peninsula waterbodies. Acronyms of surveyors are the same as in @tbl-coop."
+#| tbl-cap-location: top
+
+sl <- schsf$year >= this_year
+scsum <- aggregate(schsf$waterbody_name[sl],
+ by = list(schsf$year[sl], schsf$target_species[sl], schsf$surveyors[sl]),
+ FUN = length)
+scsum <- scsum[order(scsum$Group.1, scsum$Group.3, scsum$Group.2),c(1, 3, 2, 4)]
+
+col.names <- c("Year", 
+ "Surveyors",
+ "Target Species",
+ "Number of Waterbodies"
+ )
+knitr::kable(scsum, 
+  longtable = TRUE, 
+  booktabs = TRUE,
+  row.names = FALSE,
+  col.names = col.names
+)
+```
+
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-schedule
 #| tbl-cap: "Planned invasive species survey schedule for Kenai Peninsula waterbodies. Acronyms of surveyors are the same as in @tbl-coop."
@@ -120,6 +144,10 @@ knitr::kable(sch[schsf$year >= this_year,],
   col.names = col.names
 )
 ```
+
+
+
+
 
 ## Planning Resources
 

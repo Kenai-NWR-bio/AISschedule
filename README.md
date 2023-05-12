@@ -40,12 +40,35 @@ Table 1: Kenai Peninsula aquatic invasive species survey participants.
 
 ## Schedule
 
-The planned sampling schedule is available in [Table 2](#tbl-schedule)
+The planned sampling schedule is available in [Table 3](#tbl-schedule)
 below and it can be downloaded as a csv file in this repository at
 [data/raw_data/planning_data/survey_schedule.csv](data/raw_data/planning_data/survey_schedule.csv).
 The schedule can also be downloaded as spatial data in kml and shp
 formats from the
 [releases](https://github.com/Kenai-NWR-bio/AISschedule/releases) page.
+
+<div id="tbl-schedulesum">
+
+| Year | Surveyors | Target Species     | Number of Waterbodies |
+|-----:|:----------|:-------------------|----------------------:|
+| 2023 | ADFG      | dreissenid mussels |                     5 |
+| 2023 | ADFG      | fathead minnow     |                     1 |
+| 2023 | ADFG      | northern pike      |                     3 |
+| 2023 | HSWCD     | elodea             |                     1 |
+| 2023 | KNWR      | elodea             |                    14 |
+| 2023 | KNWR      | northern pike      |                    15 |
+| 2023 | KWF       | dreissenid mussels |                     2 |
+| 2023 | KWF       | elodea             |                    19 |
+| 2023 | KWF       | northern pike      |                     3 |
+| 2024 | ADFG      | northern pike      |                    11 |
+| 2024 | ADFG      | rainbow trout      |                     1 |
+| 2024 | KNWR      | elodea             |                     1 |
+
+Table 2: Summary of planned invasive species surveys for Kenai Peninsula
+waterbodies. Acronyms of surveyors are the same as in
+[Table 1](#tbl-coop).
+
+</div>
 
 <div id="tbl-schedule">
 
@@ -128,7 +151,7 @@ formats from the
 | 2024 | Vogel Lake           | 60.98873 | -150.4308 | northern pike      | ADFG      |
 | 2024 | Y Lake               | 60.39162 | -151.1706 | rainbow trout      | ADFG      |
 
-Table 2: Planned invasive species survey schedule for Kenai Peninsula
+Table 3: Planned invasive species survey schedule for Kenai Peninsula
 waterbodies. Acronyms of surveyors are the same as in
 [Table 1](#tbl-coop).
 
@@ -151,7 +174,7 @@ waterbodies. Acronyms of surveyors are the same as in
   Forum:
   <https://www.arcgis.com/home/item.html?id=336e4fc594ba42069995a74202cb4750>
 
-Some data on past surveys have been gathered into [Table 3](#tbl-past).
+Some data on past surveys have been gathered into [Table 4](#tbl-past).
 
 <div id="tbl-past">
 
@@ -204,7 +227,7 @@ Some data on past surveys have been gathered into [Table 3](#tbl-past).
 | 2013 | Wild Lake             | 60.86422 | -150.4801 | northern pike  | ADFG      |
 | 2017 | Salmo Lake            | 60.80296 | -150.9877 | northern pike  | ADFG      |
 
-Table 3: Past aquatic invasive species surveys in Peninsula waterbodies.
+Table 4: Past aquatic invasive species surveys in Peninsula waterbodies.
 Acronyms of surveyors are the same as in [Table 1](#tbl-coop).
 
 </div>
