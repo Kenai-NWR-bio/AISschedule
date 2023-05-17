@@ -56,6 +56,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Beck Lake,60.73249817,-151.1329956,elodea,KWF
 2023,Bedlam Lake,60.9244531,-150.348619,northern pike,KNWR
 2023,Beluga Lake,59.6433653,-151.5089295,elodea,HSWCD
+2023,Berg Lake,60.252594,-151.160441,northern pike,KNWR
 2023,Bill Besser Lake,60.9260361,-150.7043377,northern pike,KNWR
 2023,Birch Lake,60.72280121,-150.5269928,elodea,KWF
 2023,Browns Lake,60.48249817,-150.7189941,elodea,KWF
@@ -99,7 +100,6 @@ year,waterbody_name,latitude,longitude,target_species,surveyors
 2023,Scenic Lake,60.7603042,-150.1637881,northern pike,KNWR
 2023,Sevena Lake,60.5513432,-150.9690571,dreissenid mussels,ADFG
 2023,Shoepac Lake,60.86406,-150.37331,elodea,KNWR
-2023,Slikok Lake,60.425734,-151.0541658,northern pike,KNWR
 2023,Spirit Lake,60.59569931,-150.9960022,elodea,KWF
 2023,Spirit Lake,60.59569931,-150.9960022,northern pike,KWF
 2023,Sportfish Lake,60.85863,-150.28505,elodea,KNWR

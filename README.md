@@ -85,6 +85,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Beck Lake             | 60.73250 | -151.1330 | elodea             | KWF       |
 | 2023 | Bedlam Lake           | 60.92445 | -150.3486 | northern pike      | KNWR      |
 | 2023 | Beluga Lake           | 59.64337 | -151.5089 | elodea             | HSWCD     |
+| 2023 | Berg Lake             | 60.25259 | -151.1604 | northern pike      | KNWR      |
 | 2023 | Bill Besser Lake      | 60.92604 | -150.7043 | northern pike      | KNWR      |
 | 2023 | Birch Lake            | 60.72280 | -150.5270 | elodea             | KWF       |
 | 2023 | Browns Lake           | 60.48250 | -150.7190 | elodea             | KWF       |
@@ -128,7 +129,6 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Scenic Lake           | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake           | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
 | 2023 | Shoepac Lake          | 60.86406 | -150.3733 | elodea             | KNWR      |
-| 2023 | Slikok Lake           | 60.42573 | -151.0542 | northern pike      | KNWR      |
 | 2023 | Spirit Lake           | 60.59570 | -150.9960 | elodea             | KWF       |
 | 2023 | Spirit Lake           | 60.59570 | -150.9960 | northern pike      | KWF       |
 | 2023 | Sportfish Lake        | 60.85863 | -150.2851 | elodea             | KNWR      |
