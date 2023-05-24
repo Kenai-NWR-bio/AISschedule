@@ -163,6 +163,11 @@ knitr::kable(sch[schsf$year >= this_year,],
 
 Some data on past surveys have been gathered into @tbl-past.
 
+### Other Helpful Information
+
+- Alaska Lake Database: <https://www.adfg.alaska.gov/SF_Lakes/>
+- Kenai Peninsula Lake Bathymetry Maps: <https://www.fws.gov/library/collections/kenai-peninsula-lake-bathymetry-maps>
+
 ```{r scheduletab, echo=FALSE}
 #| label: tbl-past
 #| tbl-cap: "Past aquatic invasive species surveys in Peninsula waterbodies. Acronyms of surveyors are the same as in @tbl-coop."
