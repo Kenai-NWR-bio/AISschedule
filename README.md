@@ -181,12 +181,6 @@ waterbodies. Acronyms of surveyors are the same as in
 
 Some data on past surveys have been gathered into [Table 4](#tbl-past).
 
-### Other Helpful Information
-
-- Alaska Lake Database: <https://www.adfg.alaska.gov/SF_Lakes/>
-- Kenai Peninsula Lake Bathymetry Maps:
-  <https://www.fws.gov/library/collections/kenai-peninsula-lake-bathymetry-maps>
-
 <div id="tbl-past">
 
 | Year | Waterbody Name        | Latitude | Longitude | Target Species | Surveyors |
@@ -242,6 +236,12 @@ Table 4: Past aquatic invasive species surveys in Peninsula waterbodies.
 Acronyms of surveyors are the same as in [Table 1](#tbl-coop).
 
 </div>
+
+### Other Helpful Information
+
+- Alaska Lake Database: <https://www.adfg.alaska.gov/SF_Lakes/>
+- Kenai Peninsula Lake Bathymetry Maps:
+  <https://www.fws.gov/library/collections/kenai-peninsula-lake-bathymetry-maps>
 
 ## Methods
 
