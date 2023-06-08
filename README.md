@@ -92,13 +92,13 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Camp Island Lake      | 60.63075 | -150.7255 | elodea             | KNWR      |
 | 2023 | City of Kenai Pond    | 60.58123 | -151.2797 | fathead minnow     | ADFG      |
 | 2023 | Coal Creek Lake       | 60.38165 | -151.0590 | northern pike      | KNWR      |
-| 2023 | Cook Lake             | 61.00242 | -150.3827 | northern pike      | KNWR      |
 | 2023 | Daniels Lake          | 60.73548 | -151.1882 | dreissenid mussels | ADFG      |
 | 2023 | Daniels Lake          | 60.73550 | -151.1880 | elodea             | KWF       |
 | 2023 | Decoy Lake            | 60.76821 | -150.7658 | elodea             | KNWR      |
 | 2023 | Derks Pond            | 60.52567 | -150.9709 | northern pike      | ADFG      |
 | 2023 | Diamond Lake          | 61.01781 | -150.3719 | elodea             | KNWR      |
 | 2023 | Douglas Lake          | 60.66950 | -151.2260 | elodea             | KWF       |
+| 2023 | Dunlin Lake           | 60.80787 | -150.9589 | northern pike      | KNWR      |
 | 2023 | East Mackey Lake      | 60.53048 | -150.9940 | dreissenid mussels | ADFG      |
 | 2023 | East Mackey Lake      | 60.53030 | -150.9940 | elodea             | KWF       |
 | 2023 | East Mackey Lake      | 60.53048 | -150.9940 | northern pike      | ADFG      |
@@ -106,6 +106,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Encelewski Lake       | 60.25650 | -151.3080 | northern pike      | KWF       |
 | 2023 | Fish Lake             | 60.72324 | -150.7274 | elodea             | KNWR      |
 | 2023 | Gavia Lake            | 60.69106 | -150.5999 | elodea             | KNWR      |
+| 2023 | Goomba Lake           | 60.53723 | -150.5377 | northern pike      | KNWR      |
 | 2023 | Grebe Lake            | 60.61285 | -150.7043 | elodea             | KNWR      |
 | 2023 | Grus Lake             | 60.77568 | -150.6732 | elodea             | KNWR      |
 | 2023 | Gull Lake             | 60.81516 | -150.9463 | northern pike      | KNWR      |
@@ -114,8 +115,9 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Kolomin Lake          | 60.12300 | -151.0320 | elodea             | KWF       |
 | 2023 | Kraenberi Lake        | 60.96615 | -150.4655 | northern pike      | KNWR      |
 | 2023 | Lark Lake             | 60.90980 | -150.5214 | elodea             | KNWR      |
-| 2023 | Moose Lake            | 60.74779 | -150.3150 | northern pike      | KNWR      |
+| 2023 | Lily Lake             | 60.53550 | -150.5055 | northern pike      | KNWR      |
 | 2023 | Mull Lake             | 60.91181 | -150.3419 | elodea             | KNWR      |
+| 2023 | Neckshortka Lake      | 60.96287 | -150.3950 | northern pike      | KNWR      |
 | 2023 | Norak Lake            | 60.90211 | -150.4226 | elodea             | KNWR      |
 | 2023 | Parsons Lake          | 60.69650 | -151.2620 | dreissenid mussels | KWF       |
 | 2023 | Parsons Lake          | 60.69650 | -151.2620 | elodea             | KWF       |
@@ -125,7 +127,6 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Salamatof             | 60.65030 | -151.2960 | elodea             | KWF       |
 | 2023 | Salamatof             | 60.65030 | -151.2960 | northern pike      | KWF       |
 | 2023 | Salmo Lake            | 60.80296 | -150.9877 | elodea             | KNWR      |
-| 2023 | Salmo Lake            | 60.80296 | -150.9877 | northern pike      | KNWR      |
 | 2023 | Scenic Lake           | 60.76030 | -150.1638 | northern pike      | KNWR      |
 | 2023 | Sevena Lake           | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |
 | 2023 | Shoepac Lake          | 60.86406 | -150.3733 | elodea             | KNWR      |
@@ -139,7 +140,6 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Twin Lakes            | 60.27790 | -150.1720 | elodea             | KWF       |
 | 2023 | Twin Lakes            | 60.27860 | -150.1460 | elodea             | KWF       |
 | 2023 | Two Island Lake       | 60.88320 | -150.2740 | elodea             | KWF       |
-| 2023 | Two Island Lake       | 60.88324 | -150.2743 | northern pike      | KNWR      |
 | 2023 | Warlfe Lake           | 60.29015 | -151.3657 | northern pike      | ADFG      |
 | 2023 | West Mackey Lake      | 60.52815 | -151.0095 | dreissenid mussels | ADFG      |
 | 2024 | CC Lake               | 60.42178 | -151.1951 | northern pike      | ADFG      |
