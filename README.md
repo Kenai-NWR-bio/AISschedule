@@ -105,8 +105,9 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Encelewski Lake    | 60.25650 | -151.3080 | northern pike      | KWF       |               |
 | 2023 | Fish Lake          | 60.72324 | -150.7274 | elodea             | KNWR      |               |
 | 2023 | Galerucella Lake   | 60.71835 | -150.6073 | elodea             | KNWR      |               |
+| 2023 | Galerucella Lake   | 60.71835 | -150.6073 | northern pike      | KNWR      |               |
 | 2023 | Gavia Lake         | 60.69106 | -150.5999 | elodea             | KNWR      |               |
-| 2023 | Goomba Lake        | 60.53723 | -150.5377 | northern pike      | KNWR      |               |
+| 2023 | Goomba Lake        | 60.53723 | -150.5377 | northern pike      | KNWR      | 2023-06-08    |
 | 2023 | Grebe Lake         | 60.61285 | -150.7043 | elodea             | KNWR      |               |
 | 2023 | Grus Lake          | 60.77568 | -150.6732 | elodea             | KNWR      |               |
 | 2023 | Gull Lake          | 60.81516 | -150.9463 | northern pike      | KNWR      | 2023-06-06    |
@@ -127,7 +128,6 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Salamatof          | 60.65030 | -151.2960 | elodea             | KWF       |               |
 | 2023 | Salamatof          | 60.65030 | -151.2960 | northern pike      | KWF       |               |
 | 2023 | Salmo Lake         | 60.80296 | -150.9877 | elodea             | KNWR      |               |
-| 2023 | Scenic Lake        | 60.76030 | -150.1638 | northern pike      | KNWR      |               |
 | 2023 | Sevena Lake        | 60.55134 | -150.9691 | dreissenid mussels | ADFG      |               |
 | 2023 | Shoepac Lake       | 60.86406 | -150.3733 | elodea             | KNWR      |               |
 | 2023 | Spirit Lake        | 60.59570 | -150.9960 | elodea             | KWF       |               |
