@@ -136,8 +136,9 @@ col.names <- c("Year",
  "Latitude",
  "Longitude",
  "Target Species",
- "Surveyors")
-knitr::kable(sch[schsf$year >= this_year, 1:6], 
+ "Surveyors",
+ "Date Surveyed")
+knitr::kable(sch[schsf$year >= this_year,], 
   longtable = TRUE, 
   booktabs = TRUE,
   row.names = FALSE,
@@ -175,7 +176,8 @@ col.names <- c("Year",
  "Latitude",
  "Longitude",
  "Target Species",
- "Surveyors")
+ "Surveyors"
+ )
 knitr::kable(sch[schsf$year < this_year,1:6], 
   longtable = TRUE, 
   booktabs = TRUE,
