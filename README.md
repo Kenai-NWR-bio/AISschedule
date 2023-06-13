@@ -82,10 +82,10 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Beaver Lake        | 60.65846 | -150.9799 | elodea             | KNWR      |               |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | dreissenid mussels | KWF       |               |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | elodea             | KWF       |               |
-| 2023 | Bedlam Lake        | 60.92445 | -150.3486 | northern pike      | KNWR      |               |
+| 2023 | Bedlam Lake        | 60.92445 | -150.3486 | northern pike      | KNWR      | 2023-06-12    |
 | 2023 | Beluga Lake        | 59.64337 | -151.5089 | elodea             | HSWCD     |               |
 | 2023 | Berg Lake          | 60.25259 | -151.1604 | northern pike      | KNWR      | 2023-06-07    |
-| 2023 | Bill Besser Lake   | 60.92604 | -150.7043 | northern pike      | KNWR      |               |
+| 2023 | Bill Besser Lake   | 60.92604 | -150.7043 | northern pike      | KNWR      | 2023-06-12    |
 | 2023 | Birch Lake         | 60.72280 | -150.5270 | elodea             | KWF       |               |
 | 2023 | Browns Lake        | 60.48250 | -150.7190 | elodea             | KWF       |               |
 | 2023 | Camp Island Lake   | 60.63075 | -150.7255 | elodea             | KNWR      |               |
@@ -114,7 +114,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Hilda-Seppu Lake   | 60.72776 | -151.1438 | elodea             | KWF       |               |
 | 2023 | Johnson Lake       | 60.29010 | -151.2650 | elodea             | KWF       |               |
 | 2023 | Kolomin Lake       | 60.12300 | -151.0320 | elodea             | KWF       |               |
-| 2023 | Kraenberi Lake     | 60.96615 | -150.4655 | northern pike      | KNWR      |               |
+| 2023 | Kraenberi Lake     | 60.96615 | -150.4655 | northern pike      | KNWR      | 2023-06-12    |
 | 2023 | Lark Lake          | 60.90980 | -150.5214 | elodea             | KNWR      |               |
 | 2023 | Lily Lake          | 60.53550 | -150.5055 | northern pike      | KNWR      | 2023-06-07    |
 | 2023 | Mull Lake          | 60.91181 | -150.3419 | elodea             | KNWR      |               |
