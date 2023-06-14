@@ -76,7 +76,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Encelewski Lake,60.25650024,-151.3079987,northern pike,KWF,
 2023,Fish Lake,60.72324,-150.72744,elodea,KNWR,
 2023,Galerucella Lake,60.71835,-150.607279,elodea,KNWR,
-2023,Galerucella Lake,60.71835,-150.607279,northern pike,KNWR,
+2023,Galerucella Lake,60.71835,-150.607279,northern pike,KNWR,2023-06-13
 2023,Gavia Lake,60.69106,-150.599868,elodea,KNWR,
 2023,Goomba Lake,60.53723,-150.537672,northern pike,KNWR,2023-06-08
 2023,Grebe Lake,60.61285316,-150.7042779,elodea,KNWR,
@@ -93,7 +93,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Norak Lake,60.902108,-150.422649,elodea,KNWR,
 2023,Parsons Lake,60.69649887,-151.2619934,dreissenid mussels,KWF,
 2023,Parsons Lake,60.69649887,-151.2619934,elodea,KWF,
-2023,Phalarope Lake,60.9153447,-150.4103894,elodea,KWF,
+2023,Phalarope Lake,60.9153447,-150.4103894,elodea,KWF,2023-06-13
 2023,Phalarope Lake,60.9153447,-150.4103894,northern pike,KNWR,
 2023,Quill Lake,60.7638885,-150.7486963,northern pike,KNWR,
 2023,Salamatof,60.65029907,-151.2960052,elodea,KWF,

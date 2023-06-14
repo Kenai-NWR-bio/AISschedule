@@ -105,7 +105,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Encelewski Lake    | 60.25650 | -151.3080 | northern pike      | KWF       |               |
 | 2023 | Fish Lake          | 60.72324 | -150.7274 | elodea             | KNWR      |               |
 | 2023 | Galerucella Lake   | 60.71835 | -150.6073 | elodea             | KNWR      |               |
-| 2023 | Galerucella Lake   | 60.71835 | -150.6073 | northern pike      | KNWR      |               |
+| 2023 | Galerucella Lake   | 60.71835 | -150.6073 | northern pike      | KNWR      | 2023-06-13    |
 | 2023 | Gavia Lake         | 60.69106 | -150.5999 | elodea             | KNWR      |               |
 | 2023 | Goomba Lake        | 60.53723 | -150.5377 | northern pike      | KNWR      | 2023-06-08    |
 | 2023 | Grebe Lake         | 60.61285 | -150.7043 | elodea             | KNWR      |               |
@@ -122,7 +122,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Norak Lake         | 60.90211 | -150.4226 | elodea             | KNWR      |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |               |
-| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       |               |
+| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       | 2023-06-13    |
 | 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      |               |
 | 2023 | Quill Lake         | 60.76389 | -150.7487 | northern pike      | KNWR      |               |
 | 2023 | Salamatof          | 60.65030 | -151.2960 | elodea             | KWF       |               |
