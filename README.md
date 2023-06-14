@@ -97,7 +97,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Derks Pond         | 60.52567 | -150.9709 | northern pike      | ADFG      |               |
 | 2023 | Diamond Lake       | 61.01781 | -150.3719 | elodea             | KNWR      |               |
 | 2023 | Douglas Lake       | 60.66950 | -151.2260 | elodea             | KWF       |               |
-| 2023 | Dunlin Lake        | 60.80787 | -150.9589 | northern pike      | KNWR      |               |
+| 2023 | Dunlin Lake        | 60.80787 | -150.9589 | northern pike      | KNWR      | 2023-06-14    |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | dreissenid mussels | ADFG      |               |
 | 2023 | East Mackey Lake   | 60.53030 | -150.9940 | elodea             | KWF       |               |
 | 2023 | East Mackey Lake   | 60.53048 | -150.9940 | northern pike      | ADFG      |               |
