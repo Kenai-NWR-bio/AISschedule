@@ -77,7 +77,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Afonasi Lake       | 60.55692 | -150.4985 | northern pike      | KNWR      | 2023-05-30    |
 | 2023 | Akula Lake         | 60.68069 | -151.0370 | elodea             | KNWR      |               |
 | 2023 | Balloon Lake       | 60.76614 | -151.0721 | elodea             | KNWR      |               |
-| 2023 | Bay Lake           | 60.33440 | -151.0270 | elodea             | KWF       |               |
+| 2023 | Bay Lake           | 60.33440 | -151.0270 | elodea             | KWF       | 2023-06-15    |
 | 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      |               |
 | 2023 | Beaver Lake        | 60.65846 | -150.9799 | elodea             | KNWR      |               |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | dreissenid mussels | KWF       |               |
@@ -90,7 +90,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Browns Lake        | 60.48250 | -150.7190 | elodea             | KWF       |               |
 | 2023 | Camp Island Lake   | 60.63075 | -150.7255 | elodea             | KNWR      |               |
 | 2023 | City of Kenai Pond | 60.58123 | -151.2797 | fathead minnow     | ADFG      |               |
-| 2023 | Coal Creek Lake    | 60.38165 | -151.0590 | northern pike      | KNWR      |               |
+| 2023 | Coal Creek Lake    | 60.38165 | -151.0590 | northern pike      | KNWR      | 2023-06-15    |
 | 2023 | Daniels Lake       | 60.73548 | -151.1882 | dreissenid mussels | ADFG      |               |
 | 2023 | Daniels Lake       | 60.73550 | -151.1880 | elodea             | KWF       |               |
 | 2023 | Decoy Lake         | 60.76821 | -150.7658 | elodea             | KNWR      |               |
@@ -118,7 +118,7 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Lark Lake          | 60.90980 | -150.5214 | elodea             | KNWR      |               |
 | 2023 | Lily Lake          | 60.53550 | -150.5055 | northern pike      | KNWR      | 2023-06-07    |
 | 2023 | Mull Lake          | 60.91181 | -150.3419 | elodea             | KNWR      |               |
-| 2023 | Neckshortka Lake   | 60.96287 | -150.3950 | northern pike      | KNWR      |               |
+| 2023 | Neckshortka Lake   | 60.96287 | -150.3950 | northern pike      | KNWR      | 2023-06-15    |
 | 2023 | Norak Lake         | 60.90211 | -150.4226 | elodea             | KNWR      |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |               |

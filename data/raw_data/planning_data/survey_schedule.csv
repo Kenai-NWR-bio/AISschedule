@@ -48,7 +48,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Afonasi Lake,60.5569186,-150.4985018,northern pike,KNWR,2023-05-30
 2023,Akula Lake,60.68069222,-151.03697,elodea,KNWR,
 2023,Balloon Lake,60.766143,-151.072144,elodea,KNWR,
-2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF,
+2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF,2023-06-15
 2023,Bay Lake,60.333941,-151.026868,northern pike,KNWR,
 2023,Beaver Lake,60.658465,-150.979932,elodea,KNWR,
 2023,Beck Lake,60.73249817,-151.1329956,dreissenid mussels,KWF,
@@ -61,7 +61,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Browns Lake,60.48249817,-150.7189941,elodea,KWF,
 2023,Camp Island Lake,60.63075227,-150.7255423,elodea,KNWR,
 2023,City of Kenai Pond,60.581228,-151.279693,fathead minnow,ADFG,
-2023,Coal Creek Lake,60.381646,-151.058998,northern pike,KNWR,
+2023,Coal Creek Lake,60.381646,-151.058998,northern pike,KNWR,2023-06-15
 2023,Daniels Lake,60.7354768,-151.1881937,dreissenid mussels,ADFG,
 2023,Daniels Lake,60.73550034,-151.1880035,elodea,KWF,
 2023,Decoy Lake,60.768205,-150.765843,elodea,KNWR,
@@ -89,7 +89,7 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Lark Lake,60.9098,-150.521384,elodea,KNWR,
 2023,Lily Lake,60.535497,-150.505511,northern pike,KNWR,2023-06-07
 2023,Mull Lake,60.91181,-150.34186,elodea,KNWR,
-2023,Neckshortka Lake,60.962874,-150.394964,northern pike,KNWR,
+2023,Neckshortka Lake,60.962874,-150.394964,northern pike,KNWR,2023-06-15
 2023,Norak Lake,60.902108,-150.422649,elodea,KNWR,
 2023,Parsons Lake,60.69649887,-151.2619934,dreissenid mussels,KWF,
 2023,Parsons Lake,60.69649887,-151.2619934,elodea,KWF,
