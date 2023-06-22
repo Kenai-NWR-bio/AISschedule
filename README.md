@@ -77,8 +77,8 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Afonasi Lake       | 60.55692 | -150.4985 | northern pike      | KNWR      | 2023-05-30    |
 | 2023 | Akula Lake         | 60.68069 | -151.0370 | elodea             | KNWR      |               |
 | 2023 | Balloon Lake       | 60.76614 | -151.0721 | elodea             | KNWR      |               |
-| 2023 | Bay Lake           | 60.33440 | -151.0270 | elodea             | KWF       | 2023-06-15    |
-| 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      |               |
+| 2023 | Bay Lake           | 60.33440 | -151.0270 | elodea             | KWF       |               |
+| 2023 | Bay Lake           | 60.33394 | -151.0269 | northern pike      | KNWR      | 2023-06-15    |
 | 2023 | Beaver Lake        | 60.65846 | -150.9799 | elodea             | KNWR      |               |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | dreissenid mussels | KWF       |               |
 | 2023 | Beck Lake          | 60.73250 | -151.1330 | elodea             | KWF       |               |
@@ -122,8 +122,8 @@ waterbodies. Acronyms of surveyors are the same as in
 | 2023 | Norak Lake         | 60.90211 | -150.4226 | elodea             | KNWR      |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | dreissenid mussels | KWF       |               |
 | 2023 | Parsons Lake       | 60.69650 | -151.2620 | elodea             | KWF       |               |
-| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       | 2023-06-13    |
-| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      |               |
+| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | elodea             | KWF       |               |
+| 2023 | Phalarope Lake     | 60.91534 | -150.4104 | northern pike      | KNWR      | 2023-06-13    |
 | 2023 | Quill Lake         | 60.76389 | -150.7487 | northern pike      | KNWR      | 2023-06-21    |
 | 2023 | Salamatof          | 60.65030 | -151.2960 | elodea             | KWF       |               |
 | 2023 | Salamatof          | 60.65030 | -151.2960 | northern pike      | KWF       |               |

@@ -48,8 +48,8 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Afonasi Lake,60.5569186,-150.4985018,northern pike,KNWR,2023-05-30
 2023,Akula Lake,60.68069222,-151.03697,elodea,KNWR,
 2023,Balloon Lake,60.766143,-151.072144,elodea,KNWR,
-2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF,2023-06-15
-2023,Bay Lake,60.333941,-151.026868,northern pike,KNWR,
+2023,Bay Lake,60.33440018,-151.0269928,elodea,KWF,
+2023,Bay Lake,60.333941,-151.026868,northern pike,KNWR,2023-06-15
 2023,Beaver Lake,60.658465,-150.979932,elodea,KNWR,
 2023,Beck Lake,60.73249817,-151.1329956,dreissenid mussels,KWF,
 2023,Beck Lake,60.73249817,-151.1329956,elodea,KWF,
@@ -93,8 +93,8 @@ year,waterbody_name,latitude,longitude,target_species,surveyors,date_surveyed
 2023,Norak Lake,60.902108,-150.422649,elodea,KNWR,
 2023,Parsons Lake,60.69649887,-151.2619934,dreissenid mussels,KWF,
 2023,Parsons Lake,60.69649887,-151.2619934,elodea,KWF,
-2023,Phalarope Lake,60.9153447,-150.4103894,elodea,KWF,2023-06-13
-2023,Phalarope Lake,60.9153447,-150.4103894,northern pike,KNWR,
+2023,Phalarope Lake,60.9153447,-150.4103894,elodea,KWF,
+2023,Phalarope Lake,60.9153447,-150.4103894,northern pike,KNWR,2023-06-13
 2023,Quill Lake,60.7638885,-150.7486963,northern pike,KNWR,2023-06-21
 2023,Salamatof,60.65029907,-151.2960052,elodea,KWF,
 2023,Salamatof,60.65029907,-151.2960052,northern pike,KWF,
